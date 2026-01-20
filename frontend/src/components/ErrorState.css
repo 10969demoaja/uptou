@@ -1,0 +1,232 @@
+.error-state {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 40px 20px;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  margin: 20px auto;
+  max-width: 500px;
+  width: 100%;
+}
+
+.error-state__content {
+  max-width: 400px;
+}
+
+.error-state__icon {
+  margin-bottom: 24px;
+  opacity: 0.7;
+  transition: opacity 0.2s ease;
+}
+
+.error-state__title {
+  font-size: 20px;
+  font-weight: 600;
+  margin: 0 0 12px 0;
+  line-height: 1.4;
+  color: var(--text-primary);
+}
+
+.error-state__message {
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 0 0 32px 0;
+  color: var(--text-muted);
+}
+
+.error-state__actions {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.error-state__button {
+  padding: 12px 24px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  border: none;
+  text-decoration: none;
+  min-width: 120px;
+  justify-content: center;
+}
+
+.error-state__button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.error-state__button:active {
+  transform: translateY(0);
+}
+
+.error-state__button--primary {
+  background: var(--primary-color);
+  color: white;
+}
+
+.error-state__button--primary:hover {
+  background: var(--primary-dark);
+  box-shadow: 0 4px 12px rgba(3, 166, 161, 0.3);
+}
+
+.error-state__button--secondary {
+  background: white;
+  color: var(--text-secondary);
+  border: 1px solid var(--border-color);
+}
+
+.error-state__button--secondary:hover {
+  background: var(--background-gray);
+  border-color: var(--primary-color);
+  color: var(--primary-color);
+}
+
+/* Size Variants */
+.error-state--small {
+  padding: 24px 16px;
+  max-width: 300px;
+}
+
+.error-state--small .error-state__icon {
+  margin-bottom: 16px;
+}
+
+.error-state--small .error-state__icon svg {
+  width: 32px;
+  height: 32px;
+}
+
+.error-state--small .error-state__title {
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+
+.error-state--small .error-state__message {
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+.error-state--small .error-state__button {
+  padding: 8px 16px;
+  font-size: 13px;
+  min-width: 100px;
+}
+
+.error-state--large {
+  padding: 60px 40px;
+  max-width: 600px;
+}
+
+.error-state--large .error-state__icon {
+  margin-bottom: 32px;
+}
+
+.error-state--large .error-state__icon svg {
+  width: 64px;
+  height: 64px;
+}
+
+.error-state--large .error-state__title {
+  font-size: 24px;
+  margin-bottom: 16px;
+}
+
+.error-state--large .error-state__message {
+  font-size: 18px;
+  margin-bottom: 40px;
+}
+
+.error-state--large .error-state__button {
+  padding: 16px 32px;
+  font-size: 16px;
+  min-width: 140px;
+}
+
+/* Color Variants */
+.error-state--error .error-state__icon {
+  color: var(--error-color);
+}
+
+.error-state--warning .error-state__icon {
+  color: var(--warning-color);
+}
+
+.error-state--neutral .error-state__icon {
+  color: var(--text-muted);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .error-state {
+    padding: 32px 20px;
+    margin: 16px auto;
+  }
+  
+  .error-state__actions {
+    flex-direction: column;
+  }
+  
+  .error-state__button {
+    width: 100%;
+  }
+  
+  .error-state--large {
+    padding: 40px 24px;
+  }
+  
+  .error-state--large .error-state__title {
+    font-size: 20px;
+  }
+  
+  .error-state--large .error-state__message {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 480px) {
+  .error-state {
+    padding: 24px 16px;
+    border-radius: 8px;
+  }
+  
+  .error-state__title {
+    font-size: 18px;
+  }
+  
+  .error-state__message {
+    font-size: 14px;
+  }
+  
+  .error-state__button {
+    padding: 10px 20px;
+    font-size: 13px;
+  }
+}
+
+/* Animation for icon */
+.error-state__icon:hover {
+  opacity: 1;
+  transform: scale(1.05);
+}
+
+/* Loading state for buttons */
+.error-state__button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.error-state__button:disabled:hover {
+  transform: none;
+  box-shadow: none;
+} 

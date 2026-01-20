@@ -1,0 +1,2 @@
+
+<div id="L" class="css-s7tck8"><div class="css-2wmm3i"><div class="css-1loqf25"><span class="css-13g8sis">L</span><div class="css-1n29mbf"><div><a data-testid="llbCLogamMulia" class="css-wzuwwj" href="/p/logam-mulia">Logam Mulia</a></div></div></div></div><div class="css-16mwuw1"><div class="getScrollPosition css-1vtduww" data-val="logam-mulia"><div class="css-79elbk e13h6i9f0"><span class="css-38r5l3 e13h6i9f1">Logam Mulia</span><img src="https://images.tokopedia.net/img/category/thumbnail/4396.png" alt="Logam Mulia"></div><div class="css-1y70rxa"></div></div></div></div>

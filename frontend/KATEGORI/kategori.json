@@ -1,0 +1,4822 @@
+[
+  {
+    "kode": "A",
+    "kategori1": "Audio, Kamera &amp; Elektronik Lainnya",
+    "kategori2": [
+      {
+        "nama": "Aksesoris Kamera",
+        "kategori3": [
+          "Baterai &amp; Charger Kamera",
+          "Case Kamera",
+          "Cleaning Tools Kamera",
+          "Dry Box Kamera",
+          "Kabel Konektor Kamera",
+          "Lainnya",
+          "Microphone Kamera",
+          "Monopod Kamera",
+          "Remote Wireless Kamera",
+          "Silica Gel Kamera",
+          "Stabilizer Kamera",
+          "Strap Kamera",
+          "Tas Kamera",
+          "Tripod Kamera"
+        ]
+      },
+      {
+        "nama": "Audio",
+        "kategori3": [
+          "Amplifier",
+          "Earphone",
+          "Headphone",
+          "Kabel &amp; Konektor Audio",
+          "Sound System",
+          "Speaker",
+          "TWS",
+          "Voice Recorder"
+        ]
+      },
+      {
+        "nama": "Frame, Album &amp; Roll Film",
+        "kategori3": [
+          "Album Foto",
+          "DVs",
+          "Frame Digital",
+          "Frame Foto",
+          "Roll Film"
+        ]
+      },
+      {
+        "nama": "Kamera Analog",
+        "kategori3": [
+          "Disposable Camera",
+          "Kamera Film"
+        ]
+      },
+      {
+        "nama": "Kamera Digital",
+        "kategori3": [
+          "Action Camera",
+          "Kamera 360",
+          "Kamera DSLR",
+          "Kamera Mirrorless",
+          "Kamera Pocket"
+        ]
+      },
+      {
+        "nama": "Kamera Instan",
+        "kategori3": [
+          "Perangkat Kamera Instan",
+          "Printer Foto Instan",
+          "Refilll Kamera Instan"
+        ]
+      },
+      {
+        "nama": "Kamera Pengintai",
+        "kategori3": [
+          "DVR",
+          "Fake Camera",
+          "IP Camera",
+          "Kabel CCTV",
+          "Kamera CCTV",
+          "Spy Camera"
+        ]
+      },
+      {
+        "nama": "Lensa &amp; Aksesoris",
+        "kategori3": [
+          "Aksesoris Lensa",
+          "Lensa Kamera"
+        ]
+      },
+      {
+        "nama": "Lighting &amp; Studio",
+        "kategori3": [
+          "Backdrop",
+          "Flash Diffuser",
+          "Flash Kamera",
+          "Flash Trigger",
+          "Hot Shoe Kamera",
+          "Reflektor",
+          "Ring Light",
+          "Softbox",
+          "Studio Lighting"
+        ]
+      },
+      {
+        "nama": "Media Player",
+        "kategori3": [
+          "Blu Ray Player",
+          "DVD Player",
+          "MP3 &amp; MP4 Player",
+          "Radio &amp; Tape Player"
+        ]
+      },
+      {
+        "nama": "Perangkat Elektronik Lainnya",
+        "kategori3": [
+          "Lainnya"
+        ]
+      },
+      {
+        "nama": "Remote Control Drone",
+        "kategori3": [
+          "Aksesoris Drone",
+          "Drone Kamera",
+          "Drone Remote Control"
+        ]
+      },
+      {
+        "nama": "Video",
+        "kategori3": [
+          "Camcorder"
+        ]
+      }
+    ]
+  },
+  {
+    "kode": "B",
+    "kategori1": "Buku",
+    "kategori2": [
+      {
+        "nama": "Buku Arsitektur &amp; Desain",
+        "kategori3": [
+          "Buku Bangunan",
+          "Buku Codes &amp; Standars",
+          "Buku Dekorasi &amp; Ornamen",
+          "Buku Desain Dapur",
+          "Buku Desain Kamar",
+          "Buku Desain Ruang Keluarga",
+          "Buku Desain Ruang Tamu",
+          "Buku Desain Rumah",
+          "Buku Interior &amp; Eksterior",
+          "Buku Metode &amp; Material Bangunan",
+          "Buku Taman"
+        ]
+      },
+      {
+        "nama": "Buku Ekonomi &amp; Bisnis",
+        "kategori3": [
+          "Buku Akuntansi",
+          "Buku Bisnis",
+          "Buku Ekonomi",
+          "Buku Kesekretariatan",
+          "Buku Manajemen",
+          "Buku Pariwisata",
+          "Buku Perbankan",
+          "Buku Perhotelan",
+          "Buku Perpajakan",
+          "Buku Statistik",
+          "Buku Usaha Kecil &amp; Kewirausahaan"
+        ]
+      },
+      {
+        "nama": "Buku Hobi",
+        "kategori3": [
+          "Buku Alam",
+          "Buku Fotografi",
+          "Buku Hewan Peliharaan",
+          "Buku Hiburan",
+          "Buku Humor",
+          "Buku Keterampilan",
+          "Buku Kuliner",
+          "Buku Musik &amp; Lagu",
+          "Buku Olahraga",
+          "Buku Otomotif",
+          "Buku Permainan",
+          "Buku Seni",
+          "Buku Tanaman",
+          "Buku Travel"
+        ]
+      },
+      {
+        "nama": "Buku Hukum",
+        "kategori3": [
+          "Buku Gender &amp; Hukum",
+          "Buku Hukum Dagang",
+          "Buku Hukum Internasional",
+          "Buku Hukum Perdata",
+          "Buku Hukum Pidana",
+          "Buku Kemanusiaan",
+          "Buku Politik &amp; Hukum",
+          "Kumpulan Peraturan Perundang-Undangan",
+          "UUD 1945"
+        ]
+      },
+      {
+        "nama": "Buku Import",
+        "kategori3": [
+          "Agriculture Book Import",
+          "Art &amp; Novel Import",
+          "Child &amp; Teenager Book Import",
+          "Computer Book Import",
+          "Economy Book Import",
+          "Feminity Book Import",
+          "Health Book Import",
+          "Hobby &amp; Interest Book Import",
+          "Language  Book Import",
+          "Law Book Import",
+          "Management &amp; Business Book Import",
+          "Medical Book Import",
+          "Political Social Book Import",
+          "Psychology &amp; Education Book Import",
+          "Reference &amp; Dictionary Book Import",
+          "Religion &amp; Philosophy Book Import",
+          "School Book Import",
+          "Secretarial Book Import",
+          "Self Development Book Import",
+          "Technique Book Import",
+          "Tourism &amp; Map Book Import"
+        ]
+      },
+      {
+        "nama": "Buku Kedokteran",
+        "kategori3": [
+          "Buku Farmasi",
+          "Buku Kedokteran Spesialis",
+          "Buku Kedokteran Umum",
+          "Buku Psikiatri",
+          "Kamus Istilah Kedokteran"
+        ]
+      },
+      {
+        "nama": "Buku Keluarga",
+        "kategori3": [
+          "Buku Bimbingan Orang Tua",
+          "Buku Nama-nama Bayi",
+          "Buku Pendidikan Keluarga"
+        ]
+      },
+      {
+        "nama": "Buku Kesehatan &amp; Gaya Hidup",
+        "kategori3": [
+          "Buku Diet",
+          "Buku Gizi &amp; Nutrisi",
+          "Buku Kesehatan Anak",
+          "Buku Kesehatan Masyarakat",
+          "Buku Kesehatan Pria",
+          "Buku Latihan &amp; Kebugaran",
+          "Buku Pengobatan Alternatif",
+          "Buku Sports &amp; Adventure"
+        ]
+      },
+      {
+        "nama": "Buku Kewanitaan",
+        "kategori3": [
+          "Buku Busana",
+          "Buku Kecantikan",
+          "Buku Kehamilan &amp; Menyusui"
+        ]
+      },
+      {
+        "nama": "Buku Komputer &amp; Internet",
+        "kategori3": [
+          "Buku Database",
+          "Buku Design Graphics",
+          "Buku Hardware",
+          "Buku Internet &amp; Web",
+          "Buku Media Sosial",
+          "Buku Microsoft Office",
+          "Buku Mobile &amp; Gadget",
+          "Buku Programming",
+          "Buku Sistem Operasi"
+        ]
+      },
+      {
+        "nama": "Buku Masakan",
+        "kategori3": [
+          "Buku Resep Kue",
+          "Buku Resep Makanan Bayi &amp; Balita",
+          "Buku Resep Makanan Diet",
+          "Buku Resep Masakan",
+          "Buku Resep Minuman &amp; Dessert",
+          "Buku Resep Pastry"
+        ]
+      },
+      {
+        "nama": "Buku Pendidikan",
+        "kategori3": [
+          "Buku Atlas",
+          "Buku Bimbingan Belajar",
+          "Buku SD Kelas 1",
+          "Buku SD Kelas 2",
+          "Buku SD Kelas 3",
+          "Buku SD Kelas 4",
+          "Buku SD Kelas 5",
+          "Buku SD Kelas 6",
+          "Buku SMA Kelas 1",
+          "Buku SMA Kelas 2",
+          "Buku SMA Kelas 3",
+          "Buku SMP Kelas 1",
+          "Buku SMP Kelas 2",
+          "Buku SMP Kelas 3",
+          "Buku Saku Pramuka",
+          "Ensiklopedia",
+          "Kumpulan Soal SD",
+          "Kumpulan Soal SMA",
+          "Kumpulan Soal SMP"
+        ]
+      },
+      {
+        "nama": "Buku Pengembangan Diri &amp; Karir",
+        "kategori3": [
+          "Buku Kesuksesan",
+          "Buku Leadership Kepemimpinan",
+          "Buku Self Improvement &amp; Development"
+        ]
+      },
+      {
+        "nama": "Buku Persiapan Ujian",
+        "kategori3": [
+          "Buku Persiapan TPA &amp; Psikotest",
+          "Buku Persiapan Tes CPNS",
+          "Buku Persiapan Tes TOEFL &amp; IELTS"
+        ]
+      },
+      {
+        "nama": "Buku Pertanian",
+        "kategori3": [
+          "Buku Agribisnis",
+          "Buku Bioteknologi Pertanian",
+          "Buku Pengembangan Pertanian",
+          "Buku Peternakan",
+          "Buku Tanaman &amp; Kebun"
+        ]
+      },
+      {
+        "nama": "Buku Religi &amp; Spiritual",
+        "kategori3": [
+          "Al-Quran",
+          "Alkitab",
+          "Buku Agama Buddha",
+          "Buku Agama Hindu",
+          "Buku Agama Islam",
+          "Buku Agama Katolik",
+          "Buku Agama Khong Hu Chu",
+          "Buku Agama Kristen",
+          "Buku Filosofi",
+          "Buku Filsafat",
+          "Buku Kepercayaan",
+          "Buku Spiritual"
+        ]
+      },
+      {
+        "nama": "Buku Remaja dan Anak",
+        "kategori3": [
+          "Buku Aktivitas",
+          "Buku Cerita Anak",
+          "Buku Dongeng",
+          "Buku Dunia Pengetahuan",
+          "Buku Fabel",
+          "Buku Islami Anak",
+          "Buku Keterampilan Anak",
+          "Buku Mewarnai"
+        ]
+      },
+      {
+        "nama": "Buku Sosial Politik",
+        "kategori3": [
+          "Buku Autobiografi",
+          "Buku Biografi",
+          "Buku Ilmu Media Komunikasi",
+          "Buku Jurnalisme",
+          "Buku Komunikasi",
+          "Buku Lingkungan Hidup",
+          "Buku Politik",
+          "Buku Sejarah",
+          "Buku Sosial Budaya"
+        ]
+      },
+      {
+        "nama": "Buku Teknik &amp; Sains",
+        "kategori3": [
+          "Buku Astronomi &amp; Luar Angkasa",
+          "Buku Biologi",
+          "Buku Elektro",
+          "Buku Engineering",
+          "Buku Fisika",
+          "Buku Geografi",
+          "Buku Geologi",
+          "Buku Ilmiah",
+          "Buku Kimia",
+          "Buku Robotika",
+          "Buku Sipil"
+        ]
+      },
+      {
+        "nama": "Kamus &amp; Bahasa Asing",
+        "kategori3": [
+          "Bahasa Arab",
+          "Bahasa Indonesia",
+          "Bahasa Inggris",
+          "Bahasa Jawa",
+          "Bahasa Jepang",
+          "Bahasa Jerman",
+          "Bahasa Korea",
+          "Bahasa Mandarin",
+          "Bahasa Perancis",
+          "Basa Sunda",
+          "Kamus Bahasa Lainnya"
+        ]
+      },
+      {
+        "nama": "Komik",
+        "kategori3": [
+          "Komik Anak",
+          "Komik Asing",
+          "Komik Dewasa",
+          "Komik Islami",
+          "Komik Langka",
+          "Komik Manga"
+        ]
+      },
+      {
+        "nama": "Majalah",
+        "kategori3": [
+          "Buku Katalog",
+          "Koran",
+          "Majalah Anak",
+          "Majalah Desain",
+          "Majalah Design Interior",
+          "Majalah Fashion",
+          "Majalah Musik",
+          "Majalah Olahraga",
+          "Majalah Otomotif",
+          "Majalah Politik, Ekonomi, dan Bisnis"
+        ]
+      },
+      {
+        "nama": "Novel &amp; Sastra",
+        "kategori3": [
+          "Buku Fantasi",
+          "Buku Kisah Nyata",
+          "Buku Misteri",
+          "Buku Roman",
+          "Fiksi Puisi",
+          "Kritik Sastra",
+          "Literatur Fiksi",
+          "Naskah",
+          "Novel Indonesia",
+          "Novel Remaja",
+          "Novel Terjemahan",
+          "Puisi"
+        ]
+      }
+    ]
+  },
+  {
+    "kode": "D",
+    "kategori1": "Dapur",
+    "kategori2": [
+      {
+        "nama": "Aksesoris Dapur",
+        "kategori3": [
+          "Alat Pemotong Serbaguna",
+          "Capit Makanan",
+          "Celemek",
+          "Chopper",
+          "Grinder",
+          "Gunting Dapur",
+          "Korek Kompor",
+          "Magnet Kulkas",
+          "Parutan",
+          "Peeler",
+          "Pelindung Tangan",
+          "Pengasah Pisau",
+          "Pisau Dapur",
+          "Pisau Set",
+          "Talenan",
+          "Tatakan Gas",
+          "Termometer Makanan &amp; Minuman",
+          "Timer Masak"
+        ]
+      },
+      {
+        "nama": "Alat Masak Khusus",
+        "kategori3": [
+          "Chocolate Melter",
+          "Coffee &amp; Tea Maker",
+          "Cotton Candy Maker",
+          "Donut Maker",
+          "Ice Cream &amp; Yogurt Maker",
+          "Mesin Es Serut",
+          "Mesin Sostel",
+          "Noodle &amp; Pasta Maker",
+          "Pancake Maker",
+          "Popcorn Maker",
+          "Sushi Maker &amp; Roller",
+          "Waffle Maker"
+        ]
+      },
+      {
+        "nama": "Bekal",
+        "kategori3": [
+          "Botol Minum",
+          "Cetakan Bento",
+          "Cup Bento",
+          "Kotak Makan",
+          "Lunch Box Set",
+          "Partisi Bento",
+          "Rantang",
+          "Tas Bekal",
+          "Tas Botol",
+          "Termos Air",
+          "Tusuk Bento"
+        ]
+      },
+      {
+        "nama": "Kemasan Makanan dan Minuman",
+        "kategori3": [
+          "Aluminium Tray &amp; Cup",
+          "Bagasse",
+          "Bento Box",
+          "Box Kardus Makanan",
+          "Box Mika",
+          "Food Pail",
+          "Food Paper Bag",
+          "Kemasan Minuman",
+          "Paper Box",
+          "Paper Rice Bowl",
+          "Thinwall"
+        ]
+      },
+      {
+        "nama": "Penyimpanan Makanan",
+        "kategori3": [
+          "Aluminium Foil",
+          "Box Telur",
+          "Cooler Box",
+          "Food Display",
+          "Food Warmer",
+          "Ice - Rice Bucket",
+          "Plastic Wrap",
+          "Plastik Klip",
+          "Sealer Makanan",
+          "Tempat Buah &amp; Sayur",
+          "Tempat Bumbu",
+          "Tempat Roti",
+          "Tempat Saos &amp; Kecap",
+          "Toples Makanan"
+        ]
+      },
+      {
+        "nama": "Peralatan Baking",
+        "kategori3": [
+          "Alat Penghias Kue",
+          "Cetakan Kue",
+          "Kertas Baking",
+          "Kocokan Telur",
+          "Kuas Kue",
+          "Loyang Kue",
+          "Pisau Kue",
+          "Tatakan Kue"
+        ]
+      },
+      {
+        "nama": "Peralatan Dapur",
+        "kategori3": [
+          "Alat Pembuka Botol",
+          "Alat Pembuka Kaleng",
+          "Dispenser Air",
+          "Pompa Galon",
+          "Rak Dapur",
+          "Rak Piring &amp; Gelas",
+          "Regulator &amp; Penghemat Gas",
+          "Sarung Galon",
+          "Sarung Kulkas",
+          "Timbangan Dapur",
+          "Water Purifier"
+        ]
+      },
+      {
+        "nama": "Peralatan Makan &amp; Minum",
+        "kategori3": [
+          "Cangkir",
+          "Centong Nasi",
+          "Gelas &amp; Mug",
+          "Gelas Wine",
+          "Mangkok Makan",
+          "Nampan",
+          "Peralatan Makan Set",
+          "Peralatan Minum Set",
+          "Piring &amp; Mangkok Saji",
+          "Piring Makan",
+          "Pitcher Minuman",
+          "Sedotan",
+          "Sendok &amp; Garpu Dessert",
+          "Sendok &amp; Garpu Makan",
+          "Sendok Bebek",
+          "Sendok Sayur &amp; Kuah",
+          "Sumpit",
+          "Sumpit Makan",
+          "Tatakan Gelas &amp; Piring",
+          "Tempat Sendok &amp; Garpu",
+          "Tudung Saji",
+          "Tutup Gelas &amp; Piring"
+        ]
+      },
+      {
+        "nama": "Peralatan Masak",
+        "kategori3": [
+          "Cetakan Es, Puding, Coklat",
+          "Cobek",
+          "Deep Fryer",
+          "Gelas Takar",
+          "Gilingan Daging",
+          "Griller",
+          "Kompor",
+          "Oven Gas",
+          "Panci",
+          "Presto",
+          "Saringan Masak",
+          "Sendok Takar",
+          "Spatula &amp; Sutil",
+          "Steamer",
+          "Teko &amp; Pemanas Air",
+          "Wajan"
+        ]
+      },
+      {
+        "nama": "Perlengkapan Cuci Piring",
+        "kategori3": [
+          "Dish Dryer",
+          "Sabut",
+          "Saringan Bak Cuci Piring",
+          "Sikat Cuci Botol",
+          "Sponge Cuci Piring"
+        ]
+      }
+    ]
+  },
+  {
+    "kode": "E",
+    "kategori1": "Elektronik",
+    "kategori2": [
+      {
+        "nama": "Alat Pendingin Ruangan",
+        "kategori3": [
+          "AC Portable",
+          "AC Reflektor",
+          "AC Standing",
+          "Air Conditioner",
+          "Air Cooler",
+          "Air Purifier",
+          "Diffuser &amp; Humidifier Listrik",
+          "Kipas Angin Listrik"
+        ]
+      },
+      {
+        "nama": "Elektronik Dapur",
+        "kategori3": [
+          "Blender &amp; Chopper Listrik",
+          "Air Fryer",
+          "Cooker Hood",
+          "Dish Dryer Listrik",
+          "Dishwasher",
+          "Dispenser Elektrik",
+          "Freezer",
+          "Juicer",
+          "Kompor Listrik",
+          "Kulkas",
+          "Microwave",
+          "Mixer",
+          "Multicooker",
+          "Oven Listrik",
+          "Rice Cooker",
+          "Showcase &amp; Chiller",
+          "Slow Cooker",
+          "Steamer Listrik",
+          "Teko Listrik",
+          "Toaster &amp; Sandwich Maker List"
+        ]
+      },
+      {
+        "nama": "Elektronik Kantor",
+        "kategori3": [
+          "Kartu RFID",
+          "Mesin Absensi",
+          "Mesin Fax",
+          "Mesin Fotocopy",
+          "Mesin Hitung Uang",
+          "Mesin Jilid",
+          "Mesin Kasir",
+          "Mesin Laminating",
+          "Mesin Penghancur Kertas",
+          "Reader RFID"
+        ]
+      },
+      {
+        "nama": "Elektronik Rumah Tangga",
+        "kategori3": [
+          "Alat Pengering Baju",
+          "Hand Blower",
+          "Mesin Cuci",
+          "Setrika",
+          "Setrika Uap",
+          "Vacuum Cleaners"
+        ]
+      },
+      {
+        "nama": "TV &amp; Aksesoris",
+        "kategori3": [
+          "Antena TV &amp; Parabola",
+          "Bracket TV",
+          "Kabel &amp; Konektor",
+          "Penguat Sinyal TV",
+          "Receiver TV",
+          "Remote TV",
+          "TV Box",
+          "Televisi"
+        ]
+      },
+      {
+        "nama": "Telepon",
+        "kategori3": [
+          "Kabel &amp; Konektor Telepon",
+          "Telepon Kabel",
+          "Telepon Satelit",
+          "Telepon Wireless",
+          "Walkie Talkie"
+        ]
+      }
+    ]
+  },
+  {
+    "kode": "F",
+    "kategori1": "Fashion Anak &amp; Bayi",
+    "kategori2": [
+      {
+        "nama": "Aksesoris Anak",
+        "kategori3": [
+          "Bando Bandana Anak",
+          "Beanie Anak",
+          "Dasi Anak",
+          "Ikat Pinggang Anak",
+          "Ikat Rambut Anak",
+          "Jas Hujan Anak",
+          "Jepitan Rambut Anak",
+          "Kacamata Anak",
+          "Kacamata Hitam Anak",
+          "Mahkota Anak",
+          "Payung Anak",
+          "Pita Rambut Anak",
+          "Sarung Tangan Anak",
+          "Suspender Anak",
+          "Syal Anak",
+          "Topi Anak"
+        ]
+      },
+      {
+        "nama": "Aksesoris Bayi",
+        "kategori3": [
+          "Headband &amp; Bando Bayi",
+          "Kacamata Jemur Bayi",
+          "Perhiasan Bayi",
+          "Topi Bayi"
+        ]
+      },
+      {
+        "nama": "Baju &amp; Sepatu Bayi",
+        "kategori3": [
+          "Baju Renang Bayi",
+          "Gurita Bayi",
+          "Jaket Bayi",
+          "Jumper Bayi",
+          "Pakaian Bayi Laki-laki",
+          "Pakaian Bayi Perempuan",
+          "Pakaian Bayi Unisex",
+          "Piyama Bayi",
+          "Sarung Tangan &amp; Kaos Kaki Bayi",
+          "Sepatu Bayi",
+          "Setelan Bayi"
+        ]
+      },
+      {
+        "nama": "Jam Tangan Anak",
+        "kategori3": [
+          "Jam Tangan Analog Anak",
+          "Jam Tangan Digital Anak",
+          "Smart Watch Anak"
+        ]
+      },
+      {
+        "nama": "Kostum Anak",
+        "kategori3": [
+          "Kostum Duyung Anak",
+          "Kostum Karakter Anak",
+          "Kostum Princess Anak",
+          "Kostum Profesi Anak",
+          "Kostum Superhero Anak"
+        ]
+      },
+      {
+        "nama": "Pakaian Adat Anak",
+        "kategori3": [
+          "Cheong Sam Anak",
+          "Hanbok Anak",
+          "Kebaya Anak Perempuan",
+          "Pakaian Adat Internasional Anak",
+          "Pakaian Adat Nasional Anak"
+        ]
+      },
+      {
+        "nama": "Pakaian Anak Laki-Laki",
+        "kategori3": [
+          "Baju Tidur Anak Laki-Laki",
+          "Celana Jeans Anak Laki-Laki",
+          "Celana Jogger Anak Laki Laki",
+          "Celana Kasual Anak Laki-Laki",
+          "Celana Panjang Anak Laki-Laki",
+          "Celana Pendek Anak Laki-Laki",
+          "Coat Kasual Anak Laki-Laki",
+          "Coat Musim Dingin Anak Laki-Laki",
+          "Down Coat Anak Laki-Laki",
+          "Hoodie Anak Laki-Laki",
+          "Jaket Anak Laki-Laki",
+          "Jaket Bulu Asli Anak Laki-Laki",
+          "Jaket Bulu Sintetis Anak Laki-Laki",
+          "Jas Tuxedo Anak Laki Laki",
+          "Jumpsuit Anak Laki-Laki",
+          "Kaos Anak Laki-Laki",
+          "Kaos Polo Anak Laki-Laki",
+          "Kemeja Anak Laki-Laki",
+          "Knitwear Anak Laki-Laki",
+          "Overall Anak Laki-Laki",
+          "Rompi Anak Laki-Laki",
+          "Rompi Kasual Anak Laki-Laki",
+          "Setelan Anak Laki-Laki",
+          "Setelan Jas Anak Laki-Laki",
+          "Trench Coat Anak Laki-Laki"
+        ]
+      },
+      {
+        "nama": "Pakaian Anak Perempuan",
+        "kategori3": [
+          "Baby Dolls Anak Perempuan",
+          "Baju Balet Anak Perempuan",
+          "Baju Tidur Anak Perempuan",
+          "Blouse Anak Perempuan",
+          "Bolero Anak Perempuan",
+          "Cardigan Anak Perempuan",
+          "Celana Jeans Anak Perempuan",
+          "Celana Panjang Anak Perempuan",
+          "Celana Pendek Anak Perempuan",
+          "Dress Anak Perempuan",
+          "Hoodie Anak Perempuan",
+          "Jaket Anak Perempuan",
+          "Jumpsuit Anak Perempuan",
+          "Kaos Anak Perempuan",
+          "Kaos Polo Anak Perempuan",
+          "Kemeja Anak Perempuan",
+          "Knitwear Anak Perempuan",
+          "Kulot Anak Perempuan",
+          "Legging Anak Perempuan",
+          "Overall Anak Perempuan",
+          "Rok Anak Perempuan",
+          "Rompi Anak Perempuan",
+          "Setelan Anak Perempuan",
+          "Tank Top Anak Perempuan"
+        ]
+      },
+      {
+        "nama": "Pakaian Dalam Anak",
+        "kategori3": [
+          "Bra Olahraga Anak Perempuan",
+          "Celana Dalam Anak",
+          "Kaos Dalam Anak",
+          "Long John Anak",
+          "Miniset",
+          "Pakaian Dalam Thermal Anak Perempuan"
+        ]
+      },
+      {
+        "nama": "Perhiasan Anak",
+        "kategori3": [
+          "Anting Anak",
+          "Cincin Anak",
+          "Gelang Anak",
+          "Kalung Anak"
+        ]
+      },
+      {
+        "nama": "Sepatu Anak Laki-laki",
+        "kategori3": [
+          "Boots Anak Laki Laki",
+          "Kaos Kaki Anak Laki Laki",
+          "Pantofel Anak Laki-Laki",
+          "Sandal Anak Laki Laki",
+          "Sepatu Sandal Anak Laki Laki",
+          "Sneakers Anak Laki-Laki"
+        ]
+      },
+      {
+        "nama": "Sepatu Anak Perempuan",
+        "kategori3": [
+          "Boots Anak Perempuan",
+          "Flat Shoes Anak Perempuan",
+          "Kaos Kaki Anak Perempuan",
+          "Sandal Anak Perempuan",
+          "Sepatu Balet Anak Perempuan",
+          "Sepatu Jelly Anak Perempuan",
+          "Sepatu Pesta Anak Perempuan",
+          "Sepatu Sandal Anak Perempuan",
+          "Sneakers Anak Perempuan"
+        ]
+      },
+      {
+        "nama": "Seragam Sekolah",
+        "kategori3": [
+          "Atasan Seragam",
+          "Bawahan Seragam",
+          "Belt Seragam Sekolah",
+          "Dasi Seragam Sekolah",
+          "Kaos Kaki Sekolah",
+          "Kerudung Sekolah",
+          "Topi Seragam Sekolah"
+        ]
+      },
+      {
+        "nama": "Tas Anak",
+        "kategori3": [
+          "Dompet Anak",
+          "Tas Koper Anak",
+          "Tas Ransel Anak",
+          "Tas Selempang Anak",
+          "Tas Tangan Anak"
+        ]
+      },
+      {
+        "nama": "Aksesoris Muslim",
+        "kategori3": [
+          "Bros Jilbab",
+          "Headpiece Jilbab",
+          "Kaos Kaki Wudhu",
+          "Klip Turki",
+          "Peniti Jilbab"
+        ]
+      },
+      {
+        "nama": "Atasan Muslim Wanita",
+        "kategori3": [
+          "Blouse Muslim Wanita",
+          "Manset Muslim Wanita",
+          "Setelan Syari Wanita",
+          "Tunik Muslim"
+        ]
+      },
+      {
+        "nama": "Baju Renang Muslim",
+        "kategori3": []
+      },
+      {
+        "nama": "Bawahan Muslim Wanita",
+        "kategori3": [
+          "Celana Muslim",
+          "Legging Wudhu",
+          "Palazzo",
+          "Rok Muslim"
+        ]
+      },
+      {
+        "nama": "Dress Muslim Wanita",
+        "kategori3": [
+          "Abaya",
+          "Gamis Wanita",
+          "Jumpsuit Muslim",
+          "Kaftan"
+        ]
+      },
+      {
+        "nama": "Jilbab",
+        "kategori3": [
+          "Cadar",
+          "Ciput",
+          "Hijab Instan",
+          "Hijab Segi Empat",
+          "Jilbab Olahraga",
+          "Khimar",
+          "Pashmina",
+          "Turban"
+        ]
+      },
+      {
+        "nama": "Masker Hijab",
+        "kategori3": [
+          "Masker Kain"
+        ]
+      },
+      {
+        "nama": "Outerwear Muslim Wanita",
+        "kategori3": [
+          "Cape Muslim",
+          "Cardigan Muslim",
+          "Coat Muslim",
+          "Vest Muslim"
+        ]
+      },
+      {
+        "nama": "Pakaian Muslim Anak",
+        "kategori3": [
+          "Baju Koko Anak",
+          "Busana Muslim Family Set",
+          "Busana Muslim Set Anak",
+          "Gamis Anak",
+          "Jilbab Anak",
+          "Manset Anak",
+          "Mukena Anak",
+          "Peci Anak",
+          "Rok Muslim Anak",
+          "Sarung Anak"
+        ]
+      },
+      {
+        "nama": "Pakaian Muslim Pria",
+        "kategori3": [
+          "Baju Koko Pria",
+          "Baju Koko Set Pria",
+          "Celana Sarung",
+          "Celana Sirwal",
+          "Gamis Pria",
+          "Peci &amp; Kopiah",
+          "Sorban"
+        ]
+      },
+      {
+        "nama": "Perlengkapan Ibadah",
+        "kategori3": [
+          "Baju Ihram",
+          "Mukena",
+          "Rompi Sholat",
+          "Sajadah",
+          "Sarung",
+          "Tasbih"
+        ]
+      },
+      {
+        "nama": "Aksesoris Pria",
+        "kategori3": [
+          "Aksesoris Kacamata Pria",
+          "Ikat Pinggang Pria",
+          "Kacamata Hitam Pria",
+          "Kacamata Pria",
+          "Sapu Tangan Pria",
+          "Sarung Tangan Pria",
+          "Scarf Pria"
+        ]
+      },
+      {
+        "nama": "Aksesoris Sepatu Pria",
+        "kategori3": [
+          "Insole Sepatu Pria",
+          "Kaos Kaki Pria",
+          "Perawatan Sepatu",
+          "Sendok Sepatu",
+          "Tali Sepatu Pria"
+        ]
+      },
+      {
+        "nama": "Atasan Pria",
+        "kategori3": [
+          "Kaos Polo Pria",
+          "Kaos Pria",
+          "Kemeja Pria"
+        ]
+      },
+      {
+        "nama": "Baju Tidur Pria",
+        "kategori3": [
+          "Celana Tidur Pria",
+          "Set Piyama Pria"
+        ]
+      },
+      {
+        "nama": "Batik Pria",
+        "kategori3": [
+          "Celana Batik Pria",
+          "Kemeja Batik Pria"
+        ]
+      },
+      {
+        "nama": "Blazer &amp; Jas Pria",
+        "kategori3": [
+          "Blazer Pria",
+          "Cufflink Jas",
+          "Dasi Pria",
+          "Jas &amp; Tuxedo Pria",
+          "Pin Jas",
+          "Pocket Square",
+          "Suspender Pria"
+        ]
+      },
+      {
+        "nama": "Celana Pria",
+        "kategori3": [
+          "Celana Bahan Pria",
+          "Celana Cargo Pria",
+          "Celana Chino Pria",
+          "Celana Jogger Pria",
+          "Celana Pendek Pria"
+        ]
+      },
+      {
+        "nama": "Jam Tangan Pria",
+        "kategori3": [
+          "Aksesoris Jam Tangan Pria",
+          "Jam Tangan Analog Pria",
+          "Jam Tangan Digital Pria"
+        ]
+      },
+      {
+        "nama": "Jeans &amp; Denim Pria",
+        "kategori3": [
+          "Celana Jeans Pria",
+          "Jaket Jeans Pria",
+          "Kemeja Denim Pria",
+          "Overall Jeans Pria"
+        ]
+      },
+      {
+        "nama": "Masker Pria",
+        "kategori3": [
+          "Masker Kain"
+        ]
+      },
+      {
+        "nama": "Outerwear Pria",
+        "kategori3": [
+          "Cardigan Pria",
+          "Coat Pria",
+          "Hoodie  Pria",
+          "Jaket Pria",
+          "Sweater Pria",
+          "Vest Pria"
+        ]
+      },
+      {
+        "nama": "Pakaian Adat Pria",
+        "kategori3": [
+          "Cheong Sam Pria",
+          "Hanbok Pria",
+          "Pakaian Adat Internasional Pria",
+          "Pakaian Adat Nasional Pria",
+          "Yukata Pria"
+        ]
+      },
+      {
+        "nama": "Pakaian Dalam Pria",
+        "kategori3": [
+          "Boxer Pria",
+          "Celana Dalam Pria",
+          "Kaos Dalam Pria",
+          "Long John Pria"
+        ]
+      },
+      {
+        "nama": "Perhiasan Pria",
+        "kategori3": [
+          "Anting Pria",
+          "Batu Mulia &amp; Batu Alam",
+          "Cincin Pria",
+          "Gelang Pria",
+          "Kalung Pria"
+        ]
+      },
+      {
+        "nama": "Sepatu Pria",
+        "kategori3": [
+          "Boots Pria",
+          "Loafers Pria",
+          "Pantofel Pria",
+          "Sandal Pria",
+          "Sepatu Sandal  Pria",
+          "Slip On Pria",
+          "Sneakers Pria"
+        ]
+      },
+      {
+        "nama": "Seragam Pria",
+        "kategori3": [
+          "Seragam Driver Pria",
+          "Seragam Koki Pria",
+          "Seragam PNS Pria",
+          "Seragam Perawat Pria",
+          "Seragam Security Pria"
+        ]
+      },
+      {
+        "nama": "Tas Pria",
+        "kategori3": [
+          "Aksesoris Tas Pria",
+          "Briefcase Pria",
+          "Clutch Pria",
+          "Dompet Pria",
+          "Tas Ransel Pria",
+          "Tas Selempang Pria",
+          "Waist Bag Pria"
+        ]
+      },
+      {
+        "nama": "Topi  Pria",
+        "kategori3": [
+          "Bucket Hat",
+          "Topi Baseball",
+          "Topi Fedora",
+          "Topi Kupluk",
+          "Topi Newsboy",
+          "Topi Snapback"
+        ]
+      },
+      {
+        "nama": "Aksesoris Sepatu Wanita",
+        "kategori3": [
+          "Insole Sepatu Wanita",
+          "Kaos Kaki Wanita",
+          "Silicon Gel Sepatu",
+          "Tali Sepatu Wanita"
+        ]
+      },
+      {
+        "nama": "Aksesoris Wanita",
+        "kategori3": [
+          "Aksesoris Kacamata Wanita",
+          "Ikat Pinggang Wanita",
+          "Kacamata Hitam Wanita",
+          "Kacamata Wanita",
+          "Sarung Tangan Wanita",
+          "Scarf &amp; Shawl Wanita",
+          "Topi Wanita"
+        ]
+      },
+      {
+        "nama": "Atasan Wanita",
+        "kategori3": [
+          "Blouse Wanita",
+          "Crop Top Wanita",
+          "Kaos Polo Wanita",
+          "Kaos Wanita",
+          "Kemeja Wanita",
+          "Tank Top Wanita"
+        ]
+      },
+      {
+        "nama": "Baju Tidur Wanita",
+        "kategori3": [
+          "Celana Tidur Wanita",
+          "Daster Wanita",
+          "Set Piyama Wanita"
+        ]
+      },
+      {
+        "nama": "Batik Wanita",
+        "kategori3": [
+          "Batik Couple",
+          "Blouse Batik Wanita",
+          "Celana Batik Wanita",
+          "Dress Batik Wanita",
+          "Jaket Batik Wanita",
+          "Kain Batik",
+          "Kain Tenun",
+          "Outer Batik Wanita",
+          "Rok Batik Wanita",
+          "Syal Batik Wanita"
+        ]
+      },
+      {
+        "nama": "Bawahan Wanita",
+        "kategori3": [
+          "Celana Kulot Wanita",
+          "Celana Panjang Wanita",
+          "Celana Pendek Wanita",
+          "Legging Wanita",
+          "Rok Wanita"
+        ]
+      },
+      {
+        "nama": "Beachwear Wanita",
+        "kategori3": [
+          "Bikini",
+          "Bikini Outer"
+        ]
+      },
+      {
+        "nama": "Bridal",
+        "kategori3": [
+          "Aksesoris Pengantin",
+          "Bridesmaid Dress",
+          "Cincin Couple",
+          "Gaun Pengantin",
+          "Wedding Glove",
+          "Wedding Veil"
+        ]
+      },
+      {
+        "nama": "Dress",
+        "kategori3": [
+          "Jumpsuit &amp; Playsuit",
+          "Maxi Dress",
+          "Midi Dress",
+          "Mini Dress"
+        ]
+      },
+      {
+        "nama": "Fashion Couple",
+        "kategori3": [
+          "Aksesoris Couple",
+          "Baju Couple",
+          "Jam tangan couple"
+        ]
+      },
+      {
+        "nama": "Jam Tangan Wanita",
+        "kategori3": [
+          "Jam Tangan Analog Wanita",
+          "Jam Tangan Digital Wanita",
+          "Strap Jam Wanita"
+        ]
+      },
+      {
+        "nama": "Jeans &amp; Denim Wanita",
+        "kategori3": [
+          "Celana Jeans Wanita",
+          "Dress Denim Wanita",
+          "Jaket Jeans Wanita",
+          "Jegging Wanita",
+          "Kemeja Denim Wanita",
+          "Overall Denim Wanita",
+          "Rok Denim Wanita"
+        ]
+      },
+      {
+        "nama": "Kebaya",
+        "kategori3": [
+          "Bustier Wanita",
+          "Kebaya Brukat",
+          "Kebaya Encim",
+          "Kebaya Kutu Baru",
+          "Setelan Kebaya"
+        ]
+      },
+      {
+        "nama": "Masker Wanita",
+        "kategori3": [
+          "Masker Kain"
+        ]
+      },
+      {
+        "nama": "Outerwear Wanita",
+        "kategori3": [
+          "Blazer Wanita",
+          "Cardigan Wanita",
+          "Coat Wanita",
+          "Hoodie Wanita",
+          "Jacket Wanita",
+          "Jaket Parka Wanita",
+          "Kimono Outer Wanita",
+          "Sweater Wanita",
+          "Vest Wanita"
+        ]
+      },
+      {
+        "nama": "Pakaian Adat Wanita",
+        "kategori3": [
+          "Cheong Sam Wanita",
+          "Hanbok Wanita",
+          "Pakaian Adat Internasional Wanita",
+          "Pakaian Adat Nasional Wanita",
+          "Yukata Wanita"
+        ]
+      },
+      {
+        "nama": "Pakaian Dalam Wanita",
+        "kategori3": [
+          "BRA",
+          "Celana Dalam Wanita",
+          "Korset",
+          "Lingerie",
+          "Long John Wanita",
+          "Stocking"
+        ]
+      },
+      {
+        "nama": "Pakaian Ibu Hamil",
+        "kategori3": [
+          "Atasan Hamil",
+          "Baju Renang Hamil",
+          "Celana Hamil",
+          "Dress &amp; Terusan Hamil",
+          "Gurita",
+          "Korset &amp; Gurita Hamil",
+          "Legging Hamil",
+          "Pakaian Dalam Ibu Hamil",
+          "Rok Hamil"
+        ]
+      },
+      {
+        "nama": "Perhiasan Wanita",
+        "kategori3": [
+          "Anting Wanita",
+          "Bros Wanita",
+          "Cincin Wanita",
+          "Gelang Wanita",
+          "Kalung Wanita",
+          "Liontin Wanita"
+        ]
+      },
+      {
+        "nama": "Sepatu Wanita",
+        "kategori3": [
+          "Boots Wanita",
+          "Espadrilles Wanita",
+          "Flat Shoes Wanita",
+          "Loafers Wanita",
+          "Pantofel Wanita",
+          "Sandal Wanita",
+          "Sepatu Heels Wanita",
+          "Sepatu Sandal Wanita",
+          "Slip On Wanita",
+          "Sneakers Wanita",
+          "Wedges Wanita"
+        ]
+      },
+      {
+        "nama": "Seragam Wanita",
+        "kategori3": [
+          "Seragam Baby Sitter",
+          "Seragam PNS Wanita",
+          "Seragam Perawat Wanita"
+        ]
+      },
+      {
+        "nama": "Setelan Wanita",
+        "kategori3": [
+          "Setelan Celana Wanita",
+          "Setelan Rok Wanita"
+        ]
+      },
+      {
+        "nama": "Tas Wanita",
+        "kategori3": [
+          "Aksesoris Tas Wanita",
+          "Clutch Wanita",
+          "Dompet Wanita",
+          "Hand Bag Wanita",
+          "Shoulder Bag Wanita",
+          "Tas Ransel Wanita",
+          "Tas Selempang Wanita",
+          "Tote Bag",
+          "Waist Bag Wanita"
+        ]
+      },
+      {
+        "nama": "Alat Musik Digital",
+        "kategori3": [
+          "DJ Controller",
+          "Launchpad",
+          "Soundcard Recording"
+        ]
+      },
+      {
+        "nama": "Alat Musik Gesek",
+        "kategori3": [
+          "Aksesoris Alat Musik Gesek",
+          "Biola",
+          "Bow Biola &amp; Cello",
+          "Cello",
+          "Senar Biola",
+          "Senar Cello"
+        ]
+      },
+      {
+        "nama": "Alat Musik Tiup",
+        "kategori3": [
+          "Aksesoris Alat Musik Tiup",
+          "Harmonika",
+          "Pianika",
+          "Saxophone",
+          "Selang Pianika",
+          "Suling  Recorder",
+          "Trumpet",
+          "Valve Oil"
+        ]
+      },
+      {
+        "nama": "Alat Musik Tradisional",
+        "kategori3": [
+          "Angklung",
+          "Gamelan",
+          "Gendang",
+          "Gong",
+          "Jimbe",
+          "Kalimba",
+          "Kecapi",
+          "Sasando",
+          "Seruling"
+        ]
+      },
+      {
+        "nama": "Drum &amp; Perkusi",
+        "kategori3": [
+          "Aksesoris Drum &amp; Perkusi",
+          "Alat Perkusi Orkestra",
+          "Cajon",
+          "Cymbal",
+          "Drum Elektrik",
+          "Drum Microphone",
+          "Drum Pad",
+          "Marakas",
+          "Pedal Drum",
+          "Rebana",
+          "Snare Drum",
+          "Stand Drum",
+          "Stik Drum",
+          "Tamborin",
+          "Tas Snare &amp; Cymbal Drum"
+        ]
+      },
+      {
+        "nama": "Film &amp; Serial TV",
+        "kategori3": [
+          "Anime",
+          "Film",
+          "Serial TV"
+        ]
+      },
+      {
+        "nama": "Gitar &amp; Bass",
+        "kategori3": [
+          "Alat Pembersih Gitar &amp; Bass",
+          "Amplifier Gitar &amp; Bass",
+          "Bass Akustik",
+          "Bass Elektrik",
+          "Capo Gitar &amp; Bass",
+          "Efek Gitar &amp; Bass",
+          "Gitar Akustik",
+          "Gitar Elektrik",
+          "Gitar Klasik",
+          "Guitalele",
+          "Kabel Jack Gitar &amp; Bass",
+          "Pick Gitar &amp; Bass",
+          "Senar Bass",
+          "Senar Gitar",
+          "Stand Gitar",
+          "Strap Gitar",
+          "Tas Bass",
+          "Tas Gitar",
+          "Tuner Gitar &amp; Bass",
+          "Ukulele"
+        ]
+      },
+      {
+        "nama": "Keyboard &amp; Piano",
+        "kategori3": [
+          "Adaptor Keyboard &amp; Piano",
+          "Amplifier Keyboard",
+          "Cover Piano",
+          "Electone",
+          "Grand Piano",
+          "Keyboard",
+          "Kursi Keyboard &amp; Piano",
+          "Pedal Piano &amp; Keyboard",
+          "Piano",
+          "Piano Elektrik",
+          "Stand Keyboard",
+          "Synthesizer",
+          "Tas Keyboard"
+        ]
+      },
+      {
+        "nama": "Merchandise",
+        "kategori3": [
+          "Apparel",
+          "Bantal &amp; Boneka",
+          "Light Stick",
+          "Merchandise Lainnya",
+          "Photobook",
+          "Photocard",
+          "Photopack",
+          "Poster",
+          "Sticker",
+          "TinyTan"
+        ]
+      },
+      {
+        "nama": "Musik",
+        "kategori3": [
+          "CD &amp; DVD Musik",
+          "Kaset Pita",
+          "Lainnya",
+          "Vinyl",
+          "Vinyl Player"
+        ]
+      },
+      {
+        "nama": "Perlengkapan Alat Musik",
+        "kategori3": [
+          "Busa Peredam Suara",
+          "Metronome",
+          "Stand Partitur"
+        ]
+      },
+      {
+        "nama": "Vokal",
+        "kategori3": [
+          "Aksesoris Microphone",
+          "Efek Vokal",
+          "Microphone",
+          "Mixer Audio"
+        ]
+      }
+    ]
+  },
+  {
+    "kode": "G",
+    "kategori1": "Gaming",
+    "kategori2": [
+      {
+        "nama": "Aksesoris Game Console",
+        "kategori3": [
+          "Adapter Game Console",
+          "Baterai Game Console",
+          "Casing &amp; Silikon Game Console",
+          "Joystick Game Console",
+          "Travel Case &amp; Tas Gaming"
+        ]
+      },
+      {
+        "nama": "Aksesoris Mobile Gaming",
+        "kategori3": [
+          "Gamepad",
+          "Smartphone Signal Booster"
+        ]
+      },
+      {
+        "nama": "CD Game",
+        "kategori3": [
+          "CD Nintendo",
+          "CD PC dan Laptop Gaming",
+          "CD PlayStation",
+          "CD Xbox"
+        ]
+      },
+      {
+        "nama": "Game Console",
+        "kategori3": [
+          "Game Boy",
+          "Game Retro",
+          "Handheld",
+          "Nintendo",
+          "PlayStation",
+          "Xbox"
+        ]
+      },
+      {
+        "nama": "Virtual Reality",
+        "kategori3": [
+          "Aksesoris VR",
+          "VR Device"
+        ]
+      }
+    ]
+  },
+  {
+    "kode": "H",
+    "kategori1": "Handphone &amp; Tablet",
+    "kategori2": [
+      {
+        "nama": "Aksesoris Handphone",
+        "kategori3": [
+          "Charger Handphone",
+          "Charger Mobil",
+          "Docking Handphone",
+          "Flip Cover Handphone",
+          "Gantungan Handphone",
+          "Hard Case Handphone",
+          "Holder Handphone",
+          "I-Ring",
+          "Kabel Data",
+          "Kabel OTG",
+          "Lensa Kamera Handphone",
+          "Mount Handphone",
+          "Pelindung Kabel",
+          "Pembesar Layar Handphone",
+          "Pop Socket",
+          "Rubber Gel Pad",
+          "Screen Protector Handphone",
+          "Selfie Ring Light",
+          "Skin Handphone",
+          "Soft Case Handphone",
+          "Stand Handphone",
+          "Tongsis",
+          "Tripod Handphone"
+        ]
+      },
+      {
+        "nama": "Aksesoris Tablet",
+        "kategori3": [
+          "Casing &amp; Cover Tablet",
+          "Charger Tablet",
+          "Connection Kit",
+          "Docking Tablet",
+          "Holder Tablet",
+          "Keyboard Bluetooth",
+          "Mount Tablet",
+          "Screen Guard Tablet",
+          "Stylus Tablet",
+          "Tablet Sleeve",
+          "Tripod Tablet"
+        ]
+      },
+      {
+        "nama": "Handphone",
+        "kategori3": [
+          "Android OS",
+          "BlackBerry OS",
+          "Feature Phone",
+          "HarmonyOS",
+          "Windows Mobile",
+          "iOS"
+        ]
+      },
+      {
+        "nama": "Komponen Handphone",
+        "kategori3": [
+          "Baterai Handphone",
+          "IC Handphone",
+          "Keypad Handphone",
+          "LCD Handphone",
+          "Sim Tray Handphone",
+          "Spare Part Handphone"
+        ]
+      },
+      {
+        "nama": "Komponen Tablet",
+        "kategori3": [
+          "Baterai Tablet",
+          "LCD Tablet",
+          "Spare Part Tablet"
+        ]
+      },
+      {
+        "nama": "Nomor Perdana &amp; Voucher",
+        "kategori3": [
+          "App Gift Card Fisik",
+          "Nomor Perdana",
+          "Voucher Data Fisik",
+          "Voucher Pulsa Fisik"
+        ]
+      },
+      {
+        "nama": "Power Bank",
+        "kategori3": [
+          "Portable Power Bank",
+          "Power Case",
+          "Solar Power Bank"
+        ]
+      },
+      {
+        "nama": "Tablet",
+        "kategori3": [
+          "Android OS",
+          "HarmonyOS",
+          "Kindle e-Book",
+          "Windows Mobile",
+          "iOS"
+        ]
+      },
+      {
+        "nama": "Wearable Devices",
+        "kategori3": [
+          "Aksesoris Wearable Devices",
+          "GPS &amp; Sport Tracker",
+          "Smart Band",
+          "Smart Watch",
+          "Wearable Cameras"
+        ]
+      }
+    ]
+  },
+  {
+    "kode": "I",
+    "kategori1": "Ibu &amp; Bayi",
+    "kategori2": [
+      {
+        "nama": "Aksesori Popok",
+        "kategori3": [
+          "Alat Semprot",
+          "Kantong Anti Air",
+          "Liner Popok",
+          "Peniti &amp; Pengait Popok"
+        ]
+      },
+      {
+        "nama": "Aktivitas Bayi",
+        "kategori3": [
+          "Baby Walker",
+          "Pagar Pengaman Bayi",
+          "Playmat Bayi",
+          "Swinger, Rocker &amp; Bouncer Bayi"
+        ]
+      },
+      {
+        "nama": "Makanan &amp; Susu Ibu Hamil",
+        "kategori3": [
+          "Asi Booster",
+          "Susu Ibu Hamil"
+        ]
+      },
+      {
+        "nama": "Makanan Bayi",
+        "kategori3": []
+      },
+      {
+        "nama": "Peralatan Perlengkapan Menyusui",
+        "kategori3": [
+          "Apron Menyusui",
+          "Bra Menyusui",
+          "Breast Pad",
+          "Breast Pump Aksesoris",
+          "Cooler Bag",
+          "Ice Gel",
+          "Kantong Botol ASI",
+          "Nipple Cream",
+          "Pakaian Menyusui"
+        ]
+      },
+      {
+        "nama": "Perawatan Bayi",
+        "kategori3": [
+          "Baby Oil",
+          "Bedak Bayi",
+          "Cream &amp; Lotion Bayi",
+          "Detergen Laundry Bayi",
+          "Diaper Bag",
+          "Gunting Kuku Bayi",
+          "Kapas &amp; Tissue Bayi",
+          "Minyak Telon",
+          "Rak &amp; Organizer Popok",
+          "Shampoo &amp; Sabun Bayi",
+          "Sikat Gigi Pasta Gigi Bayi",
+          "Sisir Bayi"
+        ]
+      },
+      {
+        "nama": "Perlengkapan &amp; Perawatan Ibu",
+        "kategori3": [
+          "Bantal Ibu Hamil",
+          "Bantal Menyusui"
+        ]
+      },
+      {
+        "nama": "Perlengkapan Makan Bayi",
+        "kategori3": [
+          "Alat Makan Bayi",
+          "Baby Food Maker",
+          "Botol Susu &amp; Dot",
+          "Celemek Bayi",
+          "Empeng",
+          "Kursi Makan Bayi",
+          "Sterilizer &amp; Warmer"
+        ]
+      },
+      {
+        "nama": "Perlengkapan Mandi Bayi",
+        "kategori3": [
+          "Bathtub &amp; Kolam Bayi",
+          "Handuk Washlap Bayi",
+          "Pelampung Bayi",
+          "Pispot",
+          "Topi Pelindung Air Bayi"
+        ]
+      },
+      {
+        "nama": "Perlengkapan Tidur Bayi",
+        "kategori3": [
+          "Baby Monitor",
+          "Bantal &amp; Guling Bayi",
+          "Bedong Bayi",
+          "Box Tidur Bayi",
+          "Kelambu Bayi",
+          "Matras Tidur Bayi",
+          "Perlak",
+          "Selimut Bayi"
+        ]
+      },
+      {
+        "nama": "Popok",
+        "kategori3": [
+          "Diaper Cakes",
+          "Diapers",
+          "Popok Kain",
+          "Popok Sekali Pakai"
+        ]
+      },
+      {
+        "nama": "Stroller &amp; Alat Bantu Bawa Bayi",
+        "kategori3": [
+          "Aksesoris Stroller",
+          "Alas Stroller",
+          "Dudukan Mobil Bayi",
+          "Gendongan Bayi",
+          "Stroller"
+        ]
+      },
+      {
+        "nama": "Susu Bayi &amp; Anak",
+        "kategori3": [
+          "Biskuit &amp; Snack Bayi",
+          "Sereal &amp; Bubur Bayi",
+          "Susu Anak",
+          "Susu Bayi di Bawah 1 Tahun"
+        ]
+      },
+      {
+        "nama": "Tempat Sampah Popok &amp; Isi Ulang",
+        "kategori3": [
+          "Kantong Pembuangan Popok",
+          "Liner Tempat Sampah Popok",
+          "Pengharum Tempat Sampah Popok",
+          "Tempat Sampah Popok"
+        ]
+      }
+    ]
+  },
+  {
+    "kode": "K",
+    "kategori1": "Kecantikan",
+    "kategori2": [
+      {
+        "nama": "Aksesoris Rambut",
+        "kategori3": [
+          "Bando Bandana",
+          "Hair Extension",
+          "Ikat Rambut",
+          "Jepitan Rambut",
+          "Mahkota &amp; Headpiece",
+          "Rambut Palsu",
+          "Tusuk Konde"
+        ]
+      },
+      {
+        "nama": "Alat Kecantikan Wajah",
+        "kategori3": [
+          "Alat Arus Mikro",
+          "Alat Mikrodermabrasi",
+          "Penghilang Komedo &amp; Noda",
+          "Peralatan Salon &amp; Spa",
+          "Perangkat Pembersih Wajah",
+          "Sabuk Pengencang Wajah",
+          "Steamer Wajah"
+        ]
+      },
+      {
+        "nama": "Brush Applicator",
+        "kategori3": [
+          "Beauty Sponge",
+          "Make Up Brush",
+          "Make Up Brush Set",
+          "Pembersih Brush Make Up"
+        ]
+      },
+      {
+        "nama": "Eyebrow Kit",
+        "kategori3": [
+          "Cetakan &amp; Sisir Alis",
+          "Cukuran Alis",
+          "Eyebrow Mascara",
+          "Eyebrow Pomade",
+          "Eyebrow Powder",
+          "Pensil Alis"
+        ]
+      },
+      {
+        "nama": "Face &amp; Body Paint Kit",
+        "kategori3": []
+      },
+      {
+        "nama": "Kesehatan Kulit",
+        "kategori3": [
+          "Perawatan Jerawat"
+        ]
+      },
+      {
+        "nama": "Lip Color &amp; Lip Care",
+        "kategori3": [
+          "Lip Balm &amp; Oil",
+          "Lip Cream",
+          "Lip Liner",
+          "Lip Palette",
+          "Lip Scrub",
+          "Lip Tint &amp; Lip Stain",
+          "Lipgloss",
+          "Lipstik"
+        ]
+      },
+      {
+        "nama": "Make up Mata",
+        "kategori3": [
+          "Bulu Mata Palsu",
+          "Eye Liner",
+          "Eye Primer",
+          "Eyelid Tape",
+          "Eyeshadow",
+          "Lem Bulu Mata",
+          "Mascara",
+          "Penjepit Bulu Mata",
+          "Penjepit Bulu Mata Elektrik"
+        ]
+      },
+      {
+        "nama": "Make up Tools",
+        "kategori3": [
+          "Cermin Make Up",
+          "Kemasan Make Up",
+          "Laci &amp; Tempat Make Up",
+          "Pinset Alis",
+          "Pinset Bulu Mata",
+          "Pinset Komedo",
+          "Tas Kosmetik"
+        ]
+      },
+      {
+        "nama": "Make up Wajah",
+        "kategori3": [
+          "BB Cream",
+          "Bedak Wajah",
+          "Blush On",
+          "CC Cream",
+          "Concealer &amp; Color Corrector",
+          "Contour &amp; Bronzer",
+          "Cushion",
+          "Face Primer",
+          "Foundation",
+          "Highlighter",
+          "Setting Spray"
+        ]
+      },
+      {
+        "nama": "Makeup Tools",
+        "kategori3": [
+          "Alat Alis &amp; Mata",
+          "Alat Extension Bulu Mata",
+          "Alat Makeup Elektronik",
+          "Alat Pembersih Kuas Makeup",
+          "Botol Travel &amp; Parfum",
+          "Kotak Makeup",
+          "Kulkas Kecantikan",
+          "Mesin Pembersih Kuas Makeup",
+          "Pengering Kuas Makeup",
+          "Penyimpanan Makeup",
+          "Rautan",
+          "Set Alat Makeup"
+        ]
+      },
+      {
+        "nama": "Masker Kecantikan",
+        "kategori3": [
+          "Masker Bibir",
+          "Masker Mata",
+          "Masker Wajah"
+        ]
+      },
+      {
+        "nama": "Mata dan Telinga",
+        "kategori3": [
+          "Tetes Telinga"
+        ]
+      },
+      {
+        "nama": "Mix Palette",
+        "kategori3": []
+      },
+      {
+        "nama": "Pembersih Make Up",
+        "kategori3": [
+          "Kapas Wajah",
+          "Make Up Remover Balm",
+          "Make Up Remover Oil",
+          "Make Up Remover Wipes",
+          "Micellar Water",
+          "Pembersih Mata Bibir"
+        ]
+      },
+      {
+        "nama": "Perawatan Kuku &amp; Nail Art",
+        "kategori3": [
+          "Aksesori Kuku Palsu",
+          "Aksesoris Nail Art",
+          "Alat Nail Art",
+          "Fake Nail",
+          "Henna",
+          "Kuas Nail Art",
+          "Kuteks",
+          "Kuteks Base &amp; Top Coat",
+          "Kuteks Gel",
+          "Larutan Penguat Kuku",
+          "Lem Kuku Palsu",
+          "Nail Art Pen",
+          "Nail Art Stampers &amp; Scrapers",
+          "Pemeliharaan Kuku",
+          "Portable Nail Dryer",
+          "Produk Manikur Dip",
+          "Stiker Kuku",
+          "Ujung Jari Latihan Nail Art"
+        ]
+      },
+      {
+        "nama": "Perawatan Wajah",
+        "kategori3": [
+          "Cleanser Wajah",
+          "Face Mist",
+          "Face Oil",
+          "Kertas Minyak",
+          "Krim Mata",
+          "Krim Wajah",
+          "Lainnya",
+          "Paket Perawatan Wajah",
+          "Scrub Wajah",
+          "Serum Bulu Mata &amp; Alis",
+          "Serum Mata",
+          "Serum Wajah",
+          "Skincare Tools",
+          "Sunblock wajah",
+          "Toner Wajah"
+        ]
+      },
+      {
+        "nama": "Styling Rambut Wanita",
+        "kategori3": [
+          "Alat Potong Rambut",
+          "Catokan Rambut",
+          "Curling Iron",
+          "Hair Dryer",
+          "Sisir Rambut"
+        ]
+      },
+      {
+        "nama": "Suplemen Kecantikan Collagen",
+        "kategori3": [
+          "Suplemen Kecantikan Bubuk",
+          "Suplemen Kecantikan Kapsul",
+          "Suplemen Kecantikan Lainnya"
+        ]
+      },
+      {
+        "nama": "Essential Oil",
+        "kategori3": []
+      },
+      {
+        "nama": "Kesehatan Wanita",
+        "kategori3": [
+          "Pereda Nyeri &amp; Pelancar Menstruasi",
+          "Solusi Keputihan",
+          "Suplemen Kewanitaan",
+          "Suplemen Menopause"
+        ]
+      },
+      {
+        "nama": "Masker Medis &amp; Pelindung Wajah",
+        "kategori3": [
+          "Masker Medis",
+          "Pelindung Wajah"
+        ]
+      },
+      {
+        "nama": "Obat - Obatan",
+        "kategori3": [
+          "Obat Alergi",
+          "Obat Anti Inflamasi",
+          "Obat Anti Nyeri",
+          "Obat Antibiotik &amp; Anti jamur",
+          "Obat Antimalaria",
+          "Obat Antivirus",
+          "Obat Asma",
+          "Obat Batuk &amp; Pilek",
+          "Obat Diabetes",
+          "Obat Fertilitas, Hormon &amp; Kontrasepsi",
+          "Obat Gangguan Saraf &amp; Otak",
+          "Obat Herbal",
+          "Obat Hipertensi",
+          "Obat Ibu &amp; Anak",
+          "Obat Jantung",
+          "Obat Jerawat",
+          "Obat Kanker",
+          "Obat Kolestrol",
+          "Obat Kulit &amp; Rambut",
+          "Obat Mata",
+          "Obat Mual &amp; Pencernaan",
+          "Obat Mulut",
+          "Obat Otot, Tulang &amp; Sendi",
+          "Obat Sakit Kepala &amp; Demam",
+          "Obat Saluran Kemih &amp; Prostat",
+          "Obat Telinga",
+          "Prescription Obat Alergi",
+          "Prescription Obat Anti Inflamasi",
+          "Prescription Obat Antibiotik &amp; Anti jamur",
+          "Prescription Obat Asma",
+          "Prescription Obat Batuk &amp; Pilek",
+          "Prescription Obat Fertilitas, Hormon &amp; Kontrasepsi",
+          "Prescription Obat Ibu &amp; Anak",
+          "Prescription Obat Jerawat",
+          "Prescription Obat Kulit &amp; Rambut",
+          "Prescription Obat Mata",
+          "Prescription Obat Mual &amp; Pencernaan",
+          "Prescription Obat Mulut",
+          "Prescription Obat Nyeri",
+          "Prescription Obat Otot, Tulang &amp; Sendi",
+          "Prescription Obat Sakit Kepala &amp; Demam",
+          "Prescription Obat Saluran Kemih &amp; Prostat",
+          "Prescription Obat Telinga"
+        ]
+      },
+      {
+        "nama": "Perlengkapan Kebersihan",
+        "kategori3": [
+          "Aksesori Pest Control Bohlam Pengganti",
+          "Aksesori Pest Control Isi Ulang",
+          "Aksesori Pest Control Perlengkapan Reparasi",
+          "Aksesori Pest Control Suku Cadang Penyemprot",
+          "Aksesori Pewangi",
+          "Cincin Lampu Pewangi",
+          "Contact Cleaner",
+          "Deterjen Laundry",
+          "Diffuser Aromaterapi",
+          "Dupa",
+          "Indoor Pest Control untuk Berbagai Serangga",
+          "Indoor Pest Control untuk Kecoak",
+          "Indoor Pest Control untuk Kutu dan Tungau",
+          "Indoor Pest Control untuk Lalat",
+          "Indoor Pest Control untuk Ngengat",
+          "Indoor Pest Control untuk Semut",
+          "Kantong Pewangi",
+          "Karbol",
+          "Lampu Pewangi",
+          "Minyak Aromaterapi",
+          "Pembakar Minyak",
+          "Pembersih &amp; Pewangi Karpet",
+          "Pembersih Bahan Kulit",
+          "Pembersih Dapur",
+          "Pembersih Jamur",
+          "Pembersih Kaca",
+          "Pembersih Kamar Mandi",
+          "Pembersih Kerak",
+          "Pembersih Lantai",
+          "Pembersih Oven",
+          "Pembersih Pipa",
+          "Pembersih Serbaguna",
+          "Pembersih Toilet",
+          "Pengharum Ruangan",
+          "Pengharum Ruangan Gel &amp; Blok",
+          "Pengharum Ruangan Isi Ulang",
+          "Pengharum Ruangan Plug-in",
+          "Pengharum Ruangan Semprot",
+          "Penghilang Bau Peliharaan",
+          "Perlengkapan Cuci Piring",
+          "Pest Control",
+          "Pewangi Laci",
+          "Pewangi Pelembut Pakaian",
+          "Polishes",
+          "Potpourri",
+          "Produk Khusus Deep Cleaning",
+          "Sabun Cuci Piring",
+          "Semprotan Ruangan",
+          "Spray, Cairan, dan Tisu Disinfektan",
+          "Tempat Dupa",
+          "Tissue",
+          "Toilet Seat Spray"
+        ]
+      },
+      {
+        "nama": "Perlengkapan Medis",
+        "kategori3": [
+          "Alat Bantu Pendengaran",
+          "Alat Bantu Penglihatan",
+          "Alat Bantu Pernafasan",
+          "Alat Diagnosa",
+          "Alat Diagnosa Antigen",
+          "Alat Laboratorium",
+          "Alat Pelangsing",
+          "Alat Penunjang Gerak",
+          "Alat Pijat",
+          "Alat Terapi",
+          "Behel",
+          "Diaper Dewasa",
+          "Disposable Consumable",
+          "Earmuff",
+          "Peralatan P3K",
+          "Peralatan Rumah Sakit Emergency",
+          "Seragam Medis",
+          "Termometer",
+          "Timbangan Badan"
+        ]
+      },
+      {
+        "nama": "Produk Dewasa",
+        "kategori3": [
+          "Alat Bantu Seksual",
+          "Alat Kontrasepsi",
+          "Pelumas",
+          "Produk Dewasa Lainnya",
+          "Suplemen Vitalitas Pria"
+        ]
+      },
+      {
+        "nama": "Suplemen Diet",
+        "kategori3": [
+          "Lainnya",
+          "Pelangsing Tubuh",
+          "Penambah Berat Badan",
+          "Suplemen Olahraga"
+        ]
+      },
+      {
+        "nama": "Tes Kehamilan dan Masa Subur",
+        "kategori3": [
+          "Tes Kehamilan",
+          "Tes Masa Subur"
+        ]
+      },
+      {
+        "nama": "Tulang Otot &amp; Sendi",
+        "kategori3": [
+          "Balsam",
+          "Koyo",
+          "Minyak Pijat",
+          "Salep Otot"
+        ]
+      },
+      {
+        "nama": "Vitamin &amp; Suplemen",
+        "kategori3": [
+          "Calcium",
+          "Multivitamin",
+          "Suplemen Vitamin Rambut",
+          "Vitamin A",
+          "Vitamin Anak",
+          "Vitamin B",
+          "Vitamin Bayi",
+          "Vitamin C",
+          "Vitamin D",
+          "Vitamin E",
+          "Vitamin Ibu Hamil"
+        ]
+      },
+      {
+        "nama": "Aksesoris Komputer &amp; Laptop",
+        "kategori3": [
+          "Adaptor Laptop",
+          "Alas Laptop",
+          "Card Readers",
+          "Cooling Pad",
+          "Drawing Tablet",
+          "Kabel &amp; Konektor",
+          "Keyboard",
+          "Keypad",
+          "Lainnya",
+          "Laptop Case",
+          "Laptop Sleeve",
+          "Laser Pointer",
+          "Meja Laptop",
+          "Mouse",
+          "Mouse &amp; Keyboard Bundle",
+          "Mousepad",
+          "Protector Laptop",
+          "Skin Laptop",
+          "Stylus Pen Digital (Laptop &amp; PC)",
+          "TV Card &amp; Tuner",
+          "Tas Laptop",
+          "Webcam"
+        ]
+      },
+      {
+        "nama": "Aksesoris PC Gaming",
+        "kategori3": [
+          "Game Capture Card &amp; Stream Deck",
+          "Gaming Mouse &amp; Keyboard Bundle",
+          "Gamingpad &amp; Joystick PC",
+          "Headset Gaming",
+          "Joystick &amp; Wheel",
+          "Keyboard Gaming",
+          "Keyboard Keycaps &amp; Switch",
+          "Kursi Gaming",
+          "Meja Gaming",
+          "Memory Card Gaming",
+          "Microphone Gaming &amp; Streaming",
+          "Mouse Gaming",
+          "Mouse Pad Gaming",
+          "Steering Wheel"
+        ]
+      },
+      {
+        "nama": "Desktop &amp; Mini PC",
+        "kategori3": [
+          "Desktop All-in-One",
+          "Desktop Tower",
+          "Komputer Rakitan",
+          "Mini PC"
+        ]
+      },
+      {
+        "nama": "Kabel &amp; Adaptor",
+        "kategori3": [
+          "Kabel DVI",
+          "Kabel Ethernet",
+          "Kabel FireWire",
+          "Kabel Front Panel",
+          "Kabel HDMI",
+          "Kabel IDE",
+          "Kabel LAN",
+          "Kabel Power CPU",
+          "Kabel SATA &amp; eSATA",
+          "Kabel USB",
+          "Kabel UTP",
+          "Kabel VGA",
+          "USB Hub &amp; Extension"
+        ]
+      },
+      {
+        "nama": "Komponen Komputer",
+        "kategori3": [
+          "CPU Processor",
+          "Casing Komputer",
+          "Internal Fan &amp; Cooler",
+          "Internal Power Supply",
+          "Motherboard",
+          "Motherboard AMD",
+          "Optical Drive",
+          "Port USB &amp; Audio",
+          "RAM Komputer",
+          "Sound Card",
+          "Stabilizer Komputer",
+          "Thermal Paste",
+          "UPS",
+          "VGA Card"
+        ]
+      },
+      {
+        "nama": "Komponen Laptop",
+        "kategori3": [
+          "Baterai Laptop",
+          "Cooling Fan Laptop",
+          "Keyboard Laptop",
+          "LCD Laptop",
+          "Mainboard Laptop",
+          "Processor Laptop",
+          "RAM Laptop"
+        ]
+      },
+      {
+        "nama": "Laptop",
+        "kategori3": [
+          "Laptop 2 in 1",
+          "Laptop Consumer",
+          "Macbook",
+          "Notebook",
+          "Ultrabook"
+        ]
+      },
+      {
+        "nama": "Media Penyimpanan Data",
+        "kategori3": [
+          "CD &amp; DVD Kosong",
+          "Disket",
+          "Harddisk External",
+          "Harddisk Internal",
+          "Lainnya",
+          "Network Attach Storage (NAS)",
+          "SSD",
+          "Storage Cases &amp; Docking",
+          "USB Flash Disk"
+        ]
+      },
+      {
+        "nama": "Memory Card",
+        "kategori3": [
+          "Case Memory Card",
+          "Compact Flash",
+          "MMC",
+          "Memory Card Adapter",
+          "Memory Stick Micro M2",
+          "Memory Stick Pro Duo",
+          "Memory Stick Pro-HG Duo",
+          "SD Card",
+          "microSD Card",
+          "miniSD Card"
+        ]
+      },
+      {
+        "nama": "Monitor",
+        "kategori3": [
+          "Monitor LCD",
+          "Monitor LED",
+          "Monitor Tabung"
+        ]
+      },
+      {
+        "nama": "Networking",
+        "kategori3": [
+          "Adapter",
+          "KVM Switch",
+          "Modem Pool",
+          "Modem USB",
+          "Modem Wifi",
+          "Network Card",
+          "Network Transceiver",
+          "Optical Power Meter",
+          "Penguat Sinyal",
+          "Power Over Ethernet",
+          "Powerline",
+          "Print Server",
+          "Router",
+          "Switch Internet"
+        ]
+      },
+      {
+        "nama": "PC &amp; Laptop Gaming",
+        "kategori3": [
+          "Laptop Gaming",
+          "PC Gaming"
+        ]
+      },
+      {
+        "nama": "Printer",
+        "kategori3": [
+          "Printer All in One",
+          "Printer Barcode",
+          "Printer Dot Matrix",
+          "Printer Ink Jet",
+          "Printer Laser Color",
+          "Printer Laser Mono",
+          "Printer Thermal",
+          "Scanner",
+          "Spare part Printer",
+          "Tinta Printer",
+          "Toner Printer"
+        ]
+      },
+      {
+        "nama": "Proyektor &amp; Aksesoris",
+        "kategori3": [
+          "LED Proyektor",
+          "Layar Proyektor"
+        ]
+      },
+      {
+        "nama": "Software",
+        "kategori3": [
+          "Anti-Virus",
+          "Edukasi",
+          "Multimedia",
+          "Sistem Operasi",
+          "Work Services"
+        ]
+      }
+    ]
+  },
+  {
+    "kode": "L",
+    "kategori1": "Logam Mulia",
+    "kategori2": []
+  },
+  {
+    "kode": "M",
+    "kategori1": "Mainan &amp; Hobi",
+    "kategori2": [
+      {
+        "nama": "Aksesoris Airsoft",
+        "kategori3": [
+          "BB &amp; Gas Airsoft",
+          "Baju, Rompi &amp; Celana Airsoft",
+          "Baterai &amp; Charger Airsoft",
+          "Goggle &amp; Kacamata Airsoft",
+          "Helm &amp; Topi Airsoft",
+          "Holster, Case &amp; Tas Airsoft",
+          "Pad &amp; Glove Airsoft",
+          "Scope, Spring &amp; Magazine Airsoft",
+          "Sepatu Airsoft",
+          "Topeng &amp; Balaclava Airsoft"
+        ]
+      },
+      {
+        "nama": "Board Game",
+        "kategori3": [
+          "Board Game Accessories",
+          "Family &amp; Kids Games",
+          "Party Games",
+          "Roleplay Games",
+          "Strategy Games"
+        ]
+      },
+      {
+        "nama": "Boneka",
+        "kategori3": [
+          "Boneka Bantal",
+          "Boneka Beruang",
+          "Boneka Binatang",
+          "Boneka Edukasi",
+          "Boneka Karakter",
+          "Boneka Rajut",
+          "Boneka Wisuda",
+          "Rumah Boneka"
+        ]
+      },
+      {
+        "nama": "Diecast",
+        "kategori3": [
+          "Bangunan &amp; Track Diecast",
+          "Diecast Bus",
+          "Diecast Kapal",
+          "Diecast Kendaraan Publik",
+          "Diecast Militer",
+          "Diecast Mobil",
+          "Diecast Motor &amp; Sepeda",
+          "Diecast Organizer",
+          "Diecast Pesawat",
+          "Diecast Set",
+          "Diecast Truk &amp; Konstruksi"
+        ]
+      },
+      {
+        "nama": "Figure",
+        "kategori3": [
+          "Action Figure",
+          "Bobble Head",
+          "Figure Set",
+          "Funko Pop",
+          "Miniatur",
+          "Super Deformed Figure"
+        ]
+      },
+      {
+        "nama": "Gag &amp; Prank Toy",
+        "kategori3": []
+      },
+      {
+        "nama": "Kostum",
+        "kategori3": [
+          "Kostum Pria",
+          "Kostum Wanita"
+        ]
+      },
+      {
+        "nama": "Mainan Anak - Anak",
+        "kategori3": [
+          "Alat Masak Mainan",
+          "Beads Anak",
+          "Easel Anak",
+          "Flash Card Anak",
+          "Loom Bands",
+          "Magnetic Drawing",
+          "Mainan Berhitung",
+          "Mainan Dokter",
+          "Mainan Kasir",
+          "Mainan Kuda",
+          "Mainan Make Up",
+          "Mainan Montessori",
+          "Mainan Salon",
+          "Mandi Bola",
+          "Plastisin Lilin Mainan",
+          "Ring Donat",
+          "Tanah Liat"
+        ]
+      },
+      {
+        "nama": "Mainan Bayi",
+        "kategori3": [
+          "Mainan Edukasi &amp; Musikal Bayi",
+          "Mainan Gigi Bayi",
+          "Mainan Luar Ruang Bayi",
+          "Mainan Mandi Bayi"
+        ]
+      },
+      {
+        "nama": "Mainan Remote Control",
+        "kategori3": [
+          "Dance Pad",
+          "Helikopter RC",
+          "Hoverboard",
+          "Kapal RC",
+          "Kereta Api Track Set",
+          "Mainan Karaoke Anak",
+          "Mainan Robot",
+          "Mobil &amp; Truk RC",
+          "Part RC",
+          "Pesawat RC",
+          "Piano Anak",
+          "Segway"
+        ]
+      },
+      {
+        "nama": "Model Kit",
+        "kategori3": [
+          "Brick",
+          "Mecha Model (Gunpla)",
+          "Part Mini 4WD (Tamiya)",
+          "Tool &amp; Kit Mecha Model (Gunpla)",
+          "Vehicle Model (Tamiya)"
+        ]
+      },
+      {
+        "nama": "Perlengkapan Sulap",
+        "kategori3": []
+      },
+      {
+        "nama": "Permainan Kartu",
+        "kategori3": [
+          "Playing Card",
+          "Trading Card Game (TCG &amp; CCG)"
+        ]
+      },
+      {
+        "nama": "Permainan Tradisional",
+        "kategori3": [
+          "Bola &amp; Biji Bekel",
+          "Congklak",
+          "Kelereng",
+          "Ketapel",
+          "Mahjong",
+          "gasing"
+        ]
+      },
+      {
+        "nama": "Puzzle",
+        "kategori3": [
+          "3D Puzzle",
+          "Jigsaw Puzzle",
+          "Magic Cubes",
+          "Puzzle Lantai",
+          "Scrabbles",
+          "Sudoku",
+          "Wooden Puzzle"
+        ]
+      },
+      {
+        "nama": "Stress Relieve Toys",
+        "kategori3": [
+          "Fidget Cube",
+          "Fidget Spinner",
+          "Slime",
+          "Squishy"
+        ]
+      },
+      {
+        "nama": "Bahan Kue",
+        "kategori3": [
+          "Bahan Puding &amp; Agar - Agar",
+          "Baking Powder",
+          "Baking Soda",
+          "Coklat Bubuk",
+          "Coklat Masak",
+          "Pastry &amp; Olahan Tepung Lainnya",
+          "Perisa Makanan",
+          "Pewarna Makanan",
+          "Ragi",
+          "Topping &amp; Penghias Kue"
+        ]
+      },
+      {
+        "nama": "Beras, Shirataki dan Porang",
+        "kategori3": [
+          "Beras Hitam",
+          "Beras Ketan",
+          "Beras Merah",
+          "Beras Putih"
+        ]
+      },
+      {
+        "nama": "Buah",
+        "kategori3": [
+          "Buah Beku",
+          "Buah-buahan"
+        ]
+      },
+      {
+        "nama": "Bumbu &amp; Bahan Masakan",
+        "kategori3": [
+          "Aneka Sambal",
+          "Bawang",
+          "Bumbu Masak Instan",
+          "Cuka",
+          "Garam &amp; Merica",
+          "Gula",
+          "Kaldu &amp; Penyedap Rasa",
+          "Kecap",
+          "Mayonnaise",
+          "Minyak",
+          "Rempah",
+          "Santan",
+          "Saus &amp; Dressing",
+          "Terasi"
+        ]
+      },
+      {
+        "nama": "Daging",
+        "kategori3": [
+          "Baso",
+          "Daging Ayam",
+          "Daging Kambing",
+          "Daging Lainnya",
+          "Daging Sapi",
+          "Nuggets",
+          "Sosis"
+        ]
+      },
+      {
+        "nama": "Hampers, Parsel, dan Paket Makanan",
+        "kategori3": [
+          "Hampers &amp; Parcel Buah",
+          "Hampers &amp; Parcel Coklat",
+          "Hampers &amp; Parcel Kue Kering",
+          "Hampers &amp; Parcel Makanan",
+          "Paket Sembako"
+        ]
+      },
+      {
+        "nama": "Kue",
+        "kategori3": [
+          "Dessert",
+          "Kue Basah",
+          "Kue Kering",
+          "Kue Ulang Tahun"
+        ]
+      },
+      {
+        "nama": "Makanan Jadi",
+        "kategori3": [
+          "Buah Kaleng",
+          "Buah Olahan",
+          "Daging Kaleng",
+          "Ikan Kaleng",
+          "Makanan Instan Kaleng",
+          "Ready to Cook (Siap Masak)",
+          "Ready to Eat (Siap Makan)"
+        ]
+      },
+      {
+        "nama": "Makanan Kering",
+        "kategori3": [
+          "Abon",
+          "Bawang Goreng",
+          "Biji-bijian",
+          "Daging Kering &amp; Asin",
+          "Kerupuk",
+          "Quinoa"
+        ]
+      },
+      {
+        "nama": "Makanan Ringan",
+        "kategori3": [
+          "Biskuit &amp; Wafer",
+          "Camilan Beku",
+          "Camilan Instant",
+          "Cokelat",
+          "Kacang",
+          "Keripik",
+          "Permen",
+          "Puding &amp; Jelly"
+        ]
+      },
+      {
+        "nama": "Makanan Sarapan",
+        "kategori3": [
+          "Granola",
+          "Meses",
+          "Muesli",
+          "Oat",
+          "Roti",
+          "Selai",
+          "Sereal"
+        ]
+      },
+      {
+        "nama": "Mie &amp; Pasta",
+        "kategori3": [
+          "Aneka Pasta",
+          "Bihun &amp; Soun",
+          "Kwetiau",
+          "Mie Impor",
+          "Mie Instan",
+          "Mie Telur"
+        ]
+      },
+      {
+        "nama": "Minuman",
+        "kategori3": [
+          "Air Mineral",
+          "Apple Cider Vinegar",
+          "Bubuk Minuman Lainnya",
+          "Energy Drink",
+          "Jus",
+          "Kental Manis",
+          "Kopi",
+          "Kopi Bubuk",
+          "Kopi Kemasan",
+          "Krimer",
+          "Madu",
+          "Minuman Tradisional",
+          "Ready to Drink (Siap Minum)",
+          "Sirup",
+          "Soft Drink",
+          "Teh"
+        ]
+      },
+      {
+        "nama": "Produk Mengandung Babi",
+        "kategori3": [
+          "Bumbu Masak Non Halal",
+          "Daging Babi",
+          "Olahan Daging Non Halal",
+          "Ready To Eat Non Halal"
+        ]
+      },
+      {
+        "nama": "Sayur",
+        "kategori3": [
+          "Cabe",
+          "Jamur",
+          "Paket Sayur",
+          "Sayuran Beku",
+          "Sayuran Buah",
+          "Sayuran Hijau",
+          "Tahu &amp; Tempe"
+        ]
+      },
+      {
+        "nama": "Seafood",
+        "kategori3": [
+          "Cumi",
+          "Ikan Air Laut",
+          "Ikan Air Tawar",
+          "Kerang",
+          "Seafood Lainnya",
+          "Udang"
+        ]
+      },
+      {
+        "nama": "Susu &amp; Olahan Susu",
+        "kategori3": [
+          "Keju",
+          "Mentega &amp; Butter",
+          "Susu Bubuk Dewasa",
+          "Susu Lansia",
+          "Susu Non-Dairy",
+          "Susu UHT",
+          "Susu segar &amp; Pasteurisasi",
+          "Whip Cream",
+          "Yogurt"
+        ]
+      },
+      {
+        "nama": "Telur",
+        "kategori3": [
+          "Telur Ayam",
+          "Telur Bebek",
+          "Telur Puyuh"
+        ]
+      },
+      {
+        "nama": "Tepung",
+        "kategori3": [
+          "Tepung Beras &amp; Ketan",
+          "Tepung Bumbu &amp; Tepung Siap Pakai",
+          "Tepung Jagung",
+          "Tepung Kentang",
+          "Tepung Roti - Panir",
+          "Tepung Sagu",
+          "Tepung Tapioka",
+          "Tepung Terigu &amp; Gandum"
+        ]
+      }
+    ]
+  },
+  {
+    "kode": "O",
+    "kategori1": "Office &amp; Stationery",
+    "kategori2": [
+      {
+        "nama": "Alat Tulis",
+        "kategori3": [
+          "Correction (Tip-Ex)",
+          "Highlighter",
+          "Jangka",
+          "Kaca Pembesar",
+          "Kapur Tulis",
+          "Paket Alat Tulis",
+          "Papan Jalan",
+          "Papan Tulis &amp; Tempel",
+          "Penggaris",
+          "Penghapus",
+          "Pensil",
+          "Pulpen",
+          "Rautan",
+          "Spidol Papan Tulis",
+          "Spidol Permanen",
+          "Tempat Pensil",
+          "Tinta"
+        ]
+      },
+      {
+        "nama": "Alat Ukir",
+        "kategori3": [
+          "Alat Ukir Elektrik",
+          "Pisau Ukir"
+        ]
+      },
+      {
+        "nama": "Buku Tulis",
+        "kategori3": [
+          "Agenda &amp; Planner",
+          "Buku Keuangan",
+          "Buku Telepon &amp; Alamat",
+          "Buku Tulis Sekolah",
+          "Jurnal - Diary",
+          "Notebook &amp; Notepad"
+        ]
+      },
+      {
+        "nama": "Document Organizer",
+        "kategori3": [
+          "Binder",
+          "Box File",
+          "Kalender",
+          "Klip Kabel",
+          "Kotak Kartu Nama",
+          "Lanyard",
+          "Lemari File - Filling Cabinet",
+          "Map",
+          "Name Tag &amp; ID Card Holder",
+          "Ordner",
+          "Pembatas Buku",
+          "Rak Kertas",
+          "Stationery Stand"
+        ]
+      },
+      {
+        "nama": "Kalkulator &amp; Kamus Elektronik",
+        "kategori3": [
+          "Kalkulator",
+          "Kalkulator Ilmiah",
+          "Kamus Elektronik"
+        ]
+      },
+      {
+        "nama": "Kerajinan Tangan",
+        "kategori3": [
+          "Bahan Tali Gelang",
+          "Buckles",
+          "Charm &amp; Bandul",
+          "Kait Kalung",
+          "Magnet Tas",
+          "Manik-Manik",
+          "Mata Ayam",
+          "Ring D",
+          "Stopper"
+        ]
+      },
+      {
+        "nama": "Kertas",
+        "kategori3": [
+          "Kertas Binder",
+          "Kertas Fax",
+          "Kertas Folio",
+          "Kertas HVS",
+          "Kertas Karton",
+          "Kertas Thermal",
+          "Sticky Notes"
+        ]
+      },
+      {
+        "nama": "Kertas Seni",
+        "kategori3": [
+          "Impraboard",
+          "Kertas Asturo",
+          "Kertas Crepe",
+          "Kertas Origami",
+          "Kertas Photo",
+          "Papan Styrofoam"
+        ]
+      },
+      {
+        "nama": "Pemotong Kertas",
+        "kategori3": [
+          "Art Knife",
+          "Cutter",
+          "Cutting Mat",
+          "Gunting",
+          "Pembolong Kertas",
+          "Pemotong Styrofoam"
+        ]
+      },
+      {
+        "nama": "Pengikat &amp; Perekat",
+        "kategori3": [
+          "Cord Holder",
+          "Double Tape",
+          "Klip Kertas",
+          "Lem Kertas",
+          "Lem Serbaguna",
+          "Selotip &amp; Lakban",
+          "Staples",
+          "Stiker &amp; Label"
+        ]
+      },
+      {
+        "nama": "Peralatan Jahit",
+        "kategori3": [
+          "Kain dan Bahan",
+          "Kancing",
+          "Manekin",
+          "Mesin Jahit",
+          "Patch - Emblem",
+          "Payet",
+          "Perlengkapan Jahit",
+          "Renda - Bordir",
+          "Spare Part Mesin Jahit"
+        ]
+      },
+      {
+        "nama": "Peralatan Melukis",
+        "kategori3": [
+          "Art Set",
+          "Cat Air",
+          "Cat Akrilik",
+          "Cat Minyak",
+          "Cat Poster",
+          "Easel",
+          "Kanvas Lukis",
+          "Kuas Lukis",
+          "Oil &amp; Dry Pastel",
+          "Palet"
+        ]
+      },
+      {
+        "nama": "Peralatan Menggambar",
+        "kategori3": [
+          "Buku Gambar &amp; Sketsa",
+          "Charcoal",
+          "Crayon",
+          "Drawing Pen",
+          "Pensil Warna",
+          "Spidol Warna",
+          "Stencil"
+        ]
+      },
+      {
+        "nama": "Perlengkapan Kaligrafi",
+        "kategori3": [
+          "Brush Pen",
+          "Nib",
+          "Pulpen Kaligrafi",
+          "Tinta &amp; Kuas Kaligrafi"
+        ]
+      },
+      {
+        "nama": "Surat-Menyurat",
+        "kategori3": [
+          "Amplop",
+          "Kartu Pos",
+          "Kertas Surat",
+          "Perangko",
+          "Stempel"
+        ]
+      },
+      {
+        "nama": "Aksesoris Olahraga",
+        "kategori3": [
+          "Arm Sleeve",
+          "Bracer &amp; Body Support",
+          "Dekker Siku",
+          "Glove &amp; Hand Wrap",
+          "Headband",
+          "Kacamata Olahraga",
+          "Knee Pad",
+          "Lainnya",
+          "Papan Skor",
+          "Peluit",
+          "Pompa Bola",
+          "Stopwatch",
+          "Tas Gym",
+          "Tas Pinggang Olahraga",
+          "Tas Sepatu Olahraga",
+          "Tas Serut",
+          "Wristband"
+        ]
+      },
+      {
+        "nama": "Alat Pancing",
+        "kategori3": [
+          "Aksesoris Memancing",
+          "Fish Finder",
+          "Gulungan Pancing",
+          "Joran Pancing",
+          "Kail Pancing",
+          "Senar Pancing",
+          "Set Alat Pancing",
+          "Tas Pancing",
+          "Umpan Pancing"
+        ]
+      },
+      {
+        "nama": "Badminton",
+        "kategori3": [
+          "Baju Badminton",
+          "Grip Raket Badminton",
+          "Net Badminton",
+          "Raket Badminton",
+          "Senar Raket Badminton",
+          "Sepatu Badminton",
+          "Shuttlecock",
+          "Tas Raket Badminton"
+        ]
+      },
+      {
+        "nama": "Baseball",
+        "kategori3": [
+          "Baju Baseball",
+          "Bola Baseball",
+          "Celana Baseball",
+          "Sarung Tangan Baseball",
+          "Sepatu Baseball",
+          "Tongkat Baseball"
+        ]
+      },
+      {
+        "nama": "Basket",
+        "kategori3": [
+          "Arm Sleeve Basket",
+          "Bola Basket",
+          "Celana Basket",
+          "Dekker Basket",
+          "Jersey Basket",
+          "Kaos Basket",
+          "Kaos Kaki Basket",
+          "Leg Sleeve Basket",
+          "Net Basket",
+          "Papan Strategi Basket",
+          "Ring Basket",
+          "Sepatu Basket",
+          "Tas Basket"
+        ]
+      },
+      {
+        "nama": "Beladiri",
+        "kategori3": [
+          "Baju &amp; Celana Bela Diri",
+          "Baton",
+          "Knuckle",
+          "Nunchaku",
+          "Pelindung Bela Diri"
+        ]
+      },
+      {
+        "nama": "Billiard",
+        "kategori3": [
+          "Bola Billiard",
+          "Cue Tip",
+          "Kapur Billiard",
+          "Meja Billiard",
+          "Perlengkapan Billiard Lain",
+          "Sarung Tangan Billiard",
+          "Stick Billiard",
+          "Tas Stick Billiard"
+        ]
+      },
+      {
+        "nama": "Boxing",
+        "kategori3": [
+          "Pelindung Gigi Tinju",
+          "Samsak Tinju",
+          "Sarung Tinju",
+          "Target Pad",
+          "Tas Sarung Tinju"
+        ]
+      },
+      {
+        "nama": "Golf",
+        "kategori3": [
+          "Bola Golf",
+          "Golf Tees",
+          "Kaos Golf",
+          "Karpet Driving Golf",
+          "Payung Golf",
+          "Sarung Stick Golf",
+          "Sarung Tangan Golf",
+          "Sepatu Golf",
+          "Stick Golf",
+          "Tas Golf",
+          "Topi Golf"
+        ]
+      },
+      {
+        "nama": "Gym &amp; Fitness",
+        "kategori3": [
+          "Abs Roller",
+          "Air Climber",
+          "Alat Angkat Beban",
+          "Baju Sauna",
+          "Bench Press",
+          "Chest Expander",
+          "Gym Ball",
+          "Hand Grip",
+          "Hulahoop",
+          "Lainnya",
+          "Pemberat Kaki",
+          "Pemberat Tangan",
+          "Power Twister",
+          "Pull Up Bar",
+          "Push Up Bar",
+          "Sepeda Statis",
+          "Sit Up Bench",
+          "Tali Skipping",
+          "Trampolin",
+          "Treadmill",
+          "Tummy Trimmer"
+        ]
+      },
+      {
+        "nama": "Hiking &amp; Camping",
+        "kategori3": [
+          "Alat Masak Camping",
+          "Carabiner",
+          "Celana Gunung",
+          "Hammock",
+          "Headlamp &amp; Senter Camping",
+          "Jaket Gunung",
+          "Kompas",
+          "Lampu Camping",
+          "Paracord",
+          "Perahu Karet &amp; Dayung",
+          "Rain Cover Tas Gunung",
+          "Sandal Gunung",
+          "Sepatu Gunung",
+          "Sleeping Bag",
+          "Survival Kit &amp; Alat Multifungsi",
+          "Tas Gunung",
+          "Tenda Camping",
+          "Teropong",
+          "Tongkat Gunung",
+          "Trekking Pole"
+        ]
+      },
+      {
+        "nama": "Olahraga Air",
+        "kategori3": [
+          "Alat &amp; Aksesoris Selam",
+          "Alat Snorkeling",
+          "Baju Renang Anak Laki-laki",
+          "Baju Renang Anak Perempuan",
+          "Baju Renang Pria",
+          "Baju Renang Wanita",
+          "Celana Renang Pria",
+          "Diving Fin",
+          "Diving Mask",
+          "Dry Bag",
+          "Jetski",
+          "Kacamata Renang",
+          "Kolam Karet",
+          "Pelampung",
+          "Senter Diving",
+          "Topi Renang",
+          "Wetsuit &amp; Drysuit"
+        ]
+      },
+      {
+        "nama": "Pakaian Olahraga Pria",
+        "kategori3": [
+          "Celana Training Pria",
+          "Jaket Track Pria",
+          "Jaket Windbreaker Pria",
+          "Kaos Dry Fit Pria",
+          "Legging Sport Pria",
+          "Muscle Tee Pria",
+          "Setelan Olahraga Pria"
+        ]
+      },
+      {
+        "nama": "Pakaian Olahraga Wanita",
+        "kategori3": [
+          "Celana Training Wanita",
+          "Jaket Windbreaker Wanita",
+          "Kaos Dry Fit Wanita",
+          "Legging Sport Wanita",
+          "Muscle Tee Wanita",
+          "Rok Senam Wanita",
+          "Setelan Olahraga Wanita",
+          "Sport Bra"
+        ]
+      },
+      {
+        "nama": "Panahan",
+        "kategori3": [
+          "Anak Panah",
+          "Busur Panah",
+          "Finger Tab Panahan",
+          "Pelindung Dada Panahan",
+          "Pelindung Tangan Panahan",
+          "Sarung Tangan Panahan",
+          "Tali Busur Panah",
+          "Target Panah",
+          "Tas Panahan",
+          "Thumb Glove Panahan"
+        ]
+      },
+      {
+        "nama": "Perlengkapan Lari",
+        "kategori3": [
+          "Celana Lari Pria",
+          "Celana Lari Wanita",
+          "Sepatu Lari Pria",
+          "Sepatu Lari Wanita"
+        ]
+      },
+      {
+        "nama": "Sepak Bola &amp; Futsal",
+        "kategori3": [
+          "Bola Sepak",
+          "Dekker Futsal",
+          "Dekker Sepak Bola",
+          "Jaket Bola",
+          "Jaring Gawang",
+          "Jersey Bola",
+          "Kaos Kaki",
+          "Papan Strategi Bola &amp; Futsal",
+          "Sarung Tangan Kiper",
+          "Sepatu Bola",
+          "Sepatu Futsal"
+        ]
+      },
+      {
+        "nama": "Sepatu Roda &amp; Skateboard",
+        "kategori3": [
+          "Dekker Sepatu Roda &amp; Skateboard",
+          "Grip tape Skateboard",
+          "Helm Sepatu Roda &amp; Skateboard",
+          "Roda Skateboard",
+          "Sepatu Roda",
+          "Skateboard",
+          "Skateboard Tools",
+          "Skuter &amp; Otoped"
+        ]
+      },
+      {
+        "nama": "Sepeda",
+        "kategori3": [
+          "Aksesoris Sepeda",
+          "Ban Sepeda",
+          "Frame Sepeda",
+          "Helm Sepeda",
+          "Jersey &amp; Celana Sepeda",
+          "Lampu Sepeda",
+          "Saddle Sepeda",
+          "Sepeda Anak",
+          "Sepeda BMX",
+          "Sepeda Balap",
+          "Sepeda Gunung",
+          "Sepeda Lipat",
+          "Spare Part Sepeda",
+          "Stang Sepeda",
+          "Tas Sepeda",
+          "Velg Sepeda"
+        ]
+      },
+      {
+        "nama": "Tenis",
+        "kategori3": [
+          "Baju Tenis",
+          "Bola Tenis",
+          "Grip Raket Tenis",
+          "Raket Tenis",
+          "Senar Raket Tenis",
+          "Sepatu Tenis",
+          "Tas Raket Tenis"
+        ]
+      },
+      {
+        "nama": "Tenis meja",
+        "kategori3": [
+          "Baju Tenis Meja",
+          "Bat Tenis Meja",
+          "Bola Tenis Meja",
+          "Cover Bat Tenis Meja",
+          "Cover Meja Tenis",
+          "Grip Bat Tenis Meja",
+          "Meja Tenis Meja",
+          "Net Tenis Meja"
+        ]
+      },
+      {
+        "nama": "Voli",
+        "kategori3": [
+          "Baju Voli",
+          "Bola Voli",
+          "Dekker Jari Olahraga Voli",
+          "Jaring Net Voli",
+          "Papan Strategi Voli",
+          "Sepatu Voli"
+        ]
+      },
+      {
+        "nama": "Yoga &amp; Pilates",
+        "kategori3": [
+          "Balok Yoga",
+          "Resistance Band",
+          "Yoga Mat"
+        ]
+      },
+      {
+        "nama": "Aksesoris Motor",
+        "kategori3": [
+          "Aksesori Body Motor",
+          "Alarm &amp; Gembok Motor",
+          "Box Motor",
+          "Cover Motor",
+          "Cover Stang Motor",
+          "Emblem Motor",
+          "Footstep Motor",
+          "Handle - Handfat Motor",
+          "Jok motor",
+          "Karpet Motor",
+          "Kursi Bonceng Anak",
+          "Spakbor Motor",
+          "Spion Motor",
+          "Windshield Motor"
+        ]
+      },
+      {
+        "nama": "Aksesoris Pengendara Motor",
+        "kategori3": [
+          "Cover Sepatu",
+          "Goggle Motor",
+          "Jaket Motor",
+          "Jas Hujan",
+          "Masker Buff",
+          "Rain Cover Bag",
+          "Rompi Motor",
+          "Sarung Tangan Motor",
+          "Sepatu Biker"
+        ]
+      },
+      {
+        "nama": "Alat Berat",
+        "kategori3": [
+          "Sparepart &amp; Service",
+          "Unit"
+        ]
+      },
+      {
+        "nama": "Audio &amp; Video Mobil",
+        "kategori3": [
+          "Head Unit Mobil",
+          "Kabel &amp; Konektor Audio Mobil",
+          "Power Amplifier",
+          "Sensor &amp; Kamera Mobil",
+          "Speaker Mobil",
+          "Video TV Mobil"
+        ]
+      },
+      {
+        "nama": "Ban Mobil",
+        "kategori3": []
+      },
+      {
+        "nama": "Ban Motor",
+        "kategori3": []
+      },
+      {
+        "nama": "Eksterior Mobil",
+        "kategori3": [
+          "Bumper Guard Mobil",
+          "Cover Ban Mobil",
+          "Cover Mobil",
+          "Dudukan Plat Nomor",
+          "Emblem Mobil",
+          "Kaca Film Mobil",
+          "Spion Mobil",
+          "Sticker Anti Fog",
+          "Talang Air Mobil"
+        ]
+      },
+      {
+        "nama": "Helm Motor",
+        "kategori3": [
+          "Aksesoris Helm",
+          "Cover Helm",
+          "Helm Anak",
+          "Helm Full Face",
+          "Helm Half Face",
+          "Helm Retro",
+          "Kaca Helm",
+          "Kunci Helm",
+          "Parfum Helm",
+          "Tas &amp; Jaring Helm"
+        ]
+      },
+      {
+        "nama": "Interior Mobil",
+        "kategori3": [
+          "Bantal Mobil",
+          "Car Seat Organizer",
+          "Cover Dashboard Mobil",
+          "Cup Holder Mobil",
+          "Karpet Mobil",
+          "Kasur Mobil",
+          "Kunci Pengaman Mobil",
+          "Parfum Mobil",
+          "Pelindung Panas Mobil",
+          "Sarung Stir Mobil",
+          "Seat Cushion Mobil",
+          "Sill Plate Mobil",
+          "Tempat Sampah Mobil",
+          "Tempat Tisu Mobil",
+          "Tongkat E-Toll",
+          "Tuas Persneling Mobil"
+        ]
+      },
+      {
+        "nama": "Mobil",
+        "kategori3": [
+          "Booking Fee Mobil Baru",
+          "Mobil Hatchback &amp; City Car Baru",
+          "Mobil Listrik Baru",
+          "Mobil Niaga Baru",
+          "Mobil SUV &amp; MPV Baru",
+          "Mobil Sedan Baru"
+        ]
+      },
+      {
+        "nama": "Mobil Bekas",
+        "kategori3": [
+          "Mobil Hatchback &amp; City Car Bekas",
+          "Mobil Listrik Bekas",
+          "Mobil Niaga Bekas",
+          "Mobil SUV &amp; MPV Bekas",
+          "Mobil Sedan Bekas"
+        ]
+      },
+      {
+        "nama": "Oli &amp; Penghemat BBM",
+        "kategori3": [
+          "Engine Conditioner",
+          "Filter Oli",
+          "Fuel Additive",
+          "Oli mobil",
+          "Oli motor",
+          "Penghemat BBM",
+          "Tempat Oli"
+        ]
+      },
+      {
+        "nama": "Perawatan Kendaraan",
+        "kategori3": [
+          "Anti Ban Bocor",
+          "Anti Gores Kendaraan",
+          "Busa Poles Kendaraan",
+          "Cairan Radiator",
+          "Lap Chamois",
+          "Obat Jamur Mobil",
+          "Pelumas Kendaraan",
+          "Semir Ban",
+          "Vacuum Cleaner Mobil",
+          "Wash and Wax"
+        ]
+      },
+      {
+        "nama": "Perkakas Kendaraan",
+        "kategori3": [
+          "Charger Aki Mobil",
+          "Dongkrak Mobil",
+          "Tali Derek Mobil"
+        ]
+      },
+      {
+        "nama": "Sepeda Motor",
+        "kategori3": [
+          "Booking Fee Motor Baru",
+          "Motor Bebek Baru",
+          "Motor Listrik Baru",
+          "Motor Matic Baru",
+          "Motor Sport Baru",
+          "Sepeda Listrik Baru"
+        ]
+      },
+      {
+        "nama": "Sepeda Motor Bekas",
+        "kategori3": [
+          "Motor Bebek Bekas",
+          "Motor Listrik Bekas",
+          "Motor Matic Bekas",
+          "Motor Sport Bekas"
+        ]
+      },
+      {
+        "nama": "Spare Part Mobil",
+        "kategori3": [
+          "Bearing Mobil",
+          "Belt Mobil",
+          "Busi Mobil",
+          "ECU &amp; Kelistrikan Mobil",
+          "Engine Mounting &amp; Karet Mobil",
+          "Filter Udara Mobil",
+          "Gearbox",
+          "Kampas Rem Mobil",
+          "Klakson Mobil",
+          "Knalpot Mobil",
+          "Koil &amp; CDI Mobil",
+          "Kopling &amp; Transmisi Mobil",
+          "Lampu Mobil",
+          "Master &amp; Kaliper Rem Mobil",
+          "Piston Mobil",
+          "Radiator &amp; Komponen Mobil",
+          "Selang Rem Mobil",
+          "Shockbreaker &amp; Kaki Kaki Mobil",
+          "Stir Mobil",
+          "Tromol &amp; Piringan Rem Mobil",
+          "Wiper &amp; Wiper Cover Mobil"
+        ]
+      },
+      {
+        "nama": "Spare Part Motor",
+        "kategori3": [
+          "Aki Motor",
+          "Bearing Motor",
+          "Busi Motor",
+          "ECU &amp; Kelistrikan Motor",
+          "Filter Udara Motor",
+          "Kabel Selang Motor",
+          "Kaliper, Cakram dan Tromol Motor",
+          "Kampas Rem Motor",
+          "Karburator Motor",
+          "Klakson Motor",
+          "Knalpot",
+          "Koil &amp; CDI Motor",
+          "Kopling Motor",
+          "Lampu Motor",
+          "Master &amp; Piringan Rem Motor",
+          "Noken As Motor",
+          "Piston Motor",
+          "Rantai &amp; Gir Motor",
+          "Selang Rem Motor",
+          "Shockbreaker Motor",
+          "V-Belt Motor"
+        ]
+      },
+      {
+        "nama": "Velg Mobil",
+        "kategori3": []
+      },
+      {
+        "nama": "Velg Motor",
+        "kategori3": []
+      }
+    ]
+  },
+  {
+    "kode": "P",
+    "kategori1": "Perawatan Hewan",
+    "kategori2": [
+      {
+        "nama": "Grooming Hewan",
+        "kategori3": [
+          "Gunting Kuku Hewan",
+          "Pet Glove",
+          "Sikat Gigi Hewan",
+          "Sisir Bulu Hewan"
+        ]
+      },
+      {
+        "nama": "Hewan Peliharaan",
+        "kategori3": [
+          "Anjing",
+          "Burung dan Unggas",
+          "Hamster",
+          "Hewan Peliharaan Lainnya",
+          "Ikan Hias",
+          "Kelinci",
+          "Kucing",
+          "Reptil"
+        ]
+      },
+      {
+        "nama": "Perawatan Anjing",
+        "kategori3": [
+          "Baju Anjing",
+          "Kalung Anjing",
+          "Mainan Anjing",
+          "Makanan Anjing",
+          "Obat &amp; Vitamin Anjing",
+          "Shampoo Anjing",
+          "Snack Anjing",
+          "Tali Tuntun Anjing"
+        ]
+      },
+      {
+        "nama": "Perawatan Ayam",
+        "kategori3": [
+          "Kandang Ayam",
+          "Obat &amp; Vitamin Ayam"
+        ]
+      },
+      {
+        "nama": "Perawatan Burung",
+        "kategori3": [
+          "Kandang Burung",
+          "Mainan Burung",
+          "Makanan Burung",
+          "Obat &amp; Vitamin Burung",
+          "Tempat Makan &amp; Minum Burung"
+        ]
+      },
+      {
+        "nama": "Perawatan Hamster",
+        "kategori3": [
+          "Kandang Hamster",
+          "Mainan Hamster",
+          "Makanan Hamster",
+          "Obat &amp; Vitamin Hamster"
+        ]
+      },
+      {
+        "nama": "Perawatan Hewan Ternak",
+        "kategori3": []
+      },
+      {
+        "nama": "Perawatan Ikan",
+        "kategori3": [
+          "Aerator",
+          "Aksesoris Aquarium",
+          "Aquarium",
+          "Filter Akuarium",
+          "Hiasan Aquarium",
+          "Lampu Akuarium",
+          "Makanan Ikan",
+          "Obat &amp; Vitamin Ikan",
+          "Pelet Ikan",
+          "Penghangat Air Akuarium",
+          "Penjernih Air Akuarium",
+          "Pipa Akuarium",
+          "Termometer Akuarium"
+        ]
+      },
+      {
+        "nama": "Perawatan Kelinci",
+        "kategori3": [
+          "Makanan Kelinci",
+          "Obat &amp; Vitamin Kelinci"
+        ]
+      },
+      {
+        "nama": "Perawatan Kucing",
+        "kategori3": [
+          "Baju Kucing",
+          "Garukan Kucing",
+          "Kalung Kucing",
+          "Mainan Kucing",
+          "Makanan Kucing",
+          "Obat &amp; Vitamin Kucing",
+          "Pasir Kucing",
+          "Shampoo Kucing",
+          "Snack Kucing"
+        ]
+      },
+      {
+        "nama": "Perawatan Reptil",
+        "kategori3": [
+          "Kandang Reptil",
+          "Lampu UVA &amp; UVB Reptil",
+          "Makanan Reptil",
+          "Obat &amp; Vitamin Reptil"
+        ]
+      },
+      {
+        "nama": "Perlengkapan Hewan",
+        "kategori3": [
+          "Alas Kandang Hewan",
+          "Disinfektan Kandang",
+          "Kandang Hewan",
+          "Pet Cargo",
+          "Pet Toy",
+          "Susu Hewan",
+          "Tempat Makan Hewan",
+          "Tempat Minum Hewan",
+          "Tempat Tidur Hewan"
+        ]
+      },
+      {
+        "nama": "Grooming",
+        "kategori3": [
+          "Alat Cukur Elektrik",
+          "Alat Cukur Non Elektrik",
+          "Hair Foam",
+          "Hair Wax &amp; Pomade",
+          "Krim Cukur",
+          "Sisir Saku"
+        ]
+      },
+      {
+        "nama": "Kesehatan Gigi &amp; Mulut",
+        "kategori3": [
+          "Obat kumur dan spray mulut",
+          "Pasta Gigi",
+          "Pembersih Lidah",
+          "Pemutih Gigi",
+          "Sikat Gigi",
+          "benang dan tusuk gigi"
+        ]
+      },
+      {
+        "nama": "Parfum, Cologne, &amp; Fragrance",
+        "kategori3": [
+          "Parfum &amp; Cologne Anak-Anak",
+          "Parfum &amp; Cologne Pria",
+          "Parfum &amp; Cologne Unisex",
+          "Parfum &amp; Cologne Wanita"
+        ]
+      },
+      {
+        "nama": "Perawatan Kaki &amp; Tangan",
+        "kategori3": [
+          "Masker Tangan &amp; Kaki",
+          "Batu Apung Kaki",
+          "Foot Cream",
+          "Foot Lotion",
+          "Foot Mask",
+          "Foot Scrub",
+          "Foot Spray",
+          "Gunting Kuku",
+          "Hand Cream",
+          "Hand Lotion",
+          "Hand Mask",
+          "Hand Sanitizer",
+          "Hand Scrub",
+          "Kikir Kaki",
+          "Pemisah Jari Kaki",
+          "Pemotong Mata Ikan &amp; Kapalan",
+          "Sabun Cuci Tangan",
+          "Sandal Spa",
+          "Spa &amp; Perawatan Kaki"
+        ]
+      },
+      {
+        "nama": "Perawatan Kuku",
+        "kategori3": [
+          "Alat Kuku",
+          "Alat Kutikula Kaki",
+          "Alat Manikur &amp; Pedikur",
+          "Electric Nail Drill",
+          "Electric Nail Drill Bits",
+          "Foot Scrub",
+          "Foot Spray",
+          "Gunting Kuku",
+          "Korektor Kuteks",
+          "Krim Kuku",
+          "Lampu Pengering Kuteks",
+          "Minyak Kutikula Kuku",
+          "Nail Dotting Tools",
+          "Nail Dryer",
+          "Penghilang Cat Kuku",
+          "Sandaran Tangan Manikur",
+          "Set Manikur &amp; Pedikur",
+          "Sikat Pembersih Kuku",
+          "Sterilisator Alat Kuku",
+          "Tangan &amp; Jari Latihan Manikur"
+        ]
+      },
+      {
+        "nama": "Perawatan Kulit",
+        "kategori3": [
+          "Body Lotion",
+          "Body Oil",
+          "Body Scrub",
+          "Body butter",
+          "Deodorant",
+          "Krim Pengencang &amp; Pelangsing",
+          "Pemutih Tubuh &amp; Ketiak",
+          "Penghilang Bekas Jerawat",
+          "Penghilang Bekas Luka",
+          "Peralatan Waxing",
+          "Perontok Bulu",
+          "Stretchmark Cream",
+          "Sunblock Badan"
+        ]
+      },
+      {
+        "nama": "Perawatan Mata",
+        "kategori3": [
+          "Cairan Pembersih Sofltens",
+          "Softlens",
+          "Tetes Mata Softlens"
+        ]
+      },
+      {
+        "nama": "Perawatan Rambut",
+        "kategori3": [
+          "Conditioner",
+          "Dry Shampoo",
+          "Hair tonic",
+          "Masker Rambut",
+          "Parfum Rambut",
+          "Pewarna Rambut",
+          "Produk Styling Rambut",
+          "Shampoo",
+          "Shampoo Kutu",
+          "Vitamin &amp; Serum Rambut"
+        ]
+      },
+      {
+        "nama": "Perawatan Telinga",
+        "kategori3": [
+          "Cotton bud",
+          "Ear Candle",
+          "Pembersih Telinga"
+        ]
+      },
+      {
+        "nama": "Perlengkapan Mandi",
+        "kategori3": [
+          "Bath Bomb",
+          "Bath Salt",
+          "Kain Lap Mandi",
+          "Loofah, Spons &amp; Pouf",
+          "Sabun Mandi",
+          "Sarung Tangan Eksfoliasi",
+          "Shower Cap",
+          "Shower Puff",
+          "Sikat Badan"
+        ]
+      },
+      {
+        "nama": "Produk Kewanitaan",
+        "kategori3": [
+          "Menstrual Cup &amp; Tampon",
+          "Pembalut",
+          "Perawatan Tubuh Wanita",
+          "Sabun Kewanitaan"
+        ]
+      },
+      {
+        "nama": "Balon",
+        "kategori3": [
+          "Balon Huruf &amp; Angka",
+          "Balon LED",
+          "Balon Latex",
+          "Balon Tepuk - Supporter",
+          "Balon karakter",
+          "Pita Balon",
+          "Pompa Balon",
+          "Stick Balon"
+        ]
+      },
+      {
+        "nama": "Bunga",
+        "kategori3": [
+          "Buket Bunga",
+          "Bunga Flanel",
+          "Bunga Kertas",
+          "Bunga Papan",
+          "Bunga Plastik",
+          "Bunga Sabun",
+          "Bunga Tangkai",
+          "Kelopak Bunga"
+        ]
+      },
+      {
+        "nama": "Bungkus Kemasan",
+        "kategori3": [
+          "Bubble Wrap",
+          "Goodie Bag",
+          "Kardus",
+          "Kertas Kado",
+          "Kotak Kado",
+          "Pita Kado",
+          "Plastik"
+        ]
+      },
+      {
+        "nama": "Dekorasi Pesta",
+        "kategori3": [
+          "Backdrop",
+          "Banner",
+          "Bendera",
+          "Cake Topper",
+          "Lampion",
+          "Pompom",
+          "Tirai Foil"
+        ]
+      },
+      {
+        "nama": "Hadiah",
+        "kategori3": [
+          "Celengan",
+          "Gantungan Kunci",
+          "Hadiah Custom",
+          "Hampers",
+          "Kartu Ucapan",
+          "Korek Api",
+          "Kotak Musik",
+          "Miniatur &amp; Karikatur",
+          "Mug Hadiah",
+          "Selempang - Sash",
+          "Trophy &amp; Medali",
+          "Uang Kuno"
+        ]
+      },
+      {
+        "nama": "Kebutuhan Pesta",
+        "kategori3": [
+          "Gelas Pesta",
+          "Glow Stick",
+          "Lilin Ulang Tahun",
+          "Party Popper - Confetti",
+          "Photo Props",
+          "Pinata",
+          "Piring Pesta",
+          "Smoke Bomb",
+          "Terompet",
+          "Topeng Pesta",
+          "Topi Pesta",
+          "Undangan Ulang Tahun"
+        ]
+      },
+      {
+        "nama": "Persiapan Pernikahan",
+        "kategori3": [
+          "Buku Tamu",
+          "Dekorasi Pernikahan",
+          "Mahar &amp; Seserahan",
+          "Souvenir Pernikahan",
+          "Undangan Pernikahan"
+        ]
+      },
+      {
+        "nama": "Alat Angkut Barang",
+        "kategori3": [
+          "Chain Block",
+          "Katrol",
+          "Krat Plastik",
+          "Roda Kastor",
+          "Stacker",
+          "Tali Kawat",
+          "Tangga Lipat",
+          "Trolley"
+        ]
+      },
+      {
+        "nama": "Alat Keselamatan",
+        "kategori3": [
+          "Ear Protector",
+          "Pemadam Api",
+          "Pita Pembatas &amp; Barikade",
+          "Rompi Proyek",
+          "Safety Belt",
+          "Safety Boots",
+          "Safety Cone",
+          "Safety Glasses",
+          "Safety Glove",
+          "Safety Helmet",
+          "Safety Mask",
+          "Topeng  &amp; Helm Las",
+          "Wearpack"
+        ]
+      },
+      {
+        "nama": "Alat Perkebunan",
+        "kategori3": [
+          "Alat Semprot Hama",
+          "Cangkul",
+          "Fungisida",
+          "Jaring Kebun",
+          "Mesin Blower",
+          "Mesin Fogging",
+          "Mesin Traktor",
+          "Pembasmi Lumut",
+          "Pembasmi Rumput Liar",
+          "Pembasmi Serangga",
+          "Pembasmi Tikus",
+          "Pembasmi Tikus Tanah",
+          "Pembasmi Ular",
+          "Penangkal Hama",
+          "Pengatur Pertumbuhan",
+          "Pengendali Burung",
+          "Pengendali Hewan Liar &amp; Peliharaan",
+          "Perangkap",
+          "Pisau Sabit",
+          "Sekop",
+          "Semprotan",
+          "Serangga yang Berguna",
+          "Sprinkler"
+        ]
+      },
+      {
+        "nama": "Alat Ukur Industri",
+        "kategori3": [
+          "Pengukur Arus Air",
+          "Pengukur Arus Listrik",
+          "Pengukur Berat",
+          "Pengukur Dimensi",
+          "Pengukur Intensitas Cahaya",
+          "Pengukur Intensitas Suara",
+          "Pengukur Kecepatan Rotasi",
+          "Pengukur Kelembaban",
+          "Pengukur Kualitas Udara",
+          "Pengukur Tekanan",
+          "Pengukur Temperatur",
+          "Pengukur Tingkat Keasaman"
+        ]
+      },
+      {
+        "nama": "Baut &amp; Mur Pengencang",
+        "kategori3": [
+          "Baut",
+          "Hook",
+          "Mur",
+          "Ring Plat",
+          "Rivet",
+          "Skrup"
+        ]
+      },
+      {
+        "nama": "Cat &amp; Perlengkapan",
+        "kategori3": [
+          "Cat Kayu",
+          "Cat Pelapis",
+          "Cat Semprot",
+          "Cat Tembok",
+          "Kuas Cat",
+          "Plamir",
+          "Roller Cat",
+          "Thinner",
+          "Wallpaper"
+        ]
+      },
+      {
+        "nama": "Generator &amp; Genset",
+        "kategori3": []
+      },
+      {
+        "nama": "Gerobak",
+        "kategori3": []
+      },
+      {
+        "nama": "Hand Tools",
+        "kategori3": [
+          "Alat Penjepit",
+          "Blow Torch",
+          "Gergaji",
+          "Gunting Pipa",
+          "Kapak",
+          "Kertas Amplas",
+          "Kunci Inggris",
+          "Kunci L",
+          "Kunci Ring Pas",
+          "Kunci Shock",
+          "Kunci T",
+          "Mata Obeng",
+          "Obeng",
+          "Palu",
+          "Pinset",
+          "Sendok Semen",
+          "Staples Gun",
+          "Tang",
+          "Tang Crimping",
+          "Tang Potong",
+          "Tool Kit Set",
+          "Treker"
+        ]
+      },
+      {
+        "nama": "Industrial Material",
+        "kategori3": [
+          "Biji Plastik",
+          "Kaporit",
+          "Resin",
+          "Rubber Sheet"
+        ]
+      },
+      {
+        "nama": "Lampu",
+        "kategori3": [
+          "Bohlam",
+          "Fitting Lampu",
+          "Lampu Baca",
+          "Lampu Darurat",
+          "Lampu Dinding",
+          "Lampu Gantung",
+          "Lampu Hias",
+          "Lampu Meja",
+          "Lampu Proyektor",
+          "Lampu Tidur",
+          "Senter",
+          "Smart Lamp"
+        ]
+      },
+      {
+        "nama": "Ledeng",
+        "kategori3": [
+          "Bath Tub",
+          "Filter Keran Air",
+          "Fitting Pipa",
+          "Foot Valve &amp; Klep",
+          "Jet Shower Toilet",
+          "Kepala Shower Mandi",
+          "Keran Air",
+          "Kloset",
+          "Lem Pipa",
+          "Pembersih Saluran Air",
+          "Pipa PVC",
+          "Pompa Air",
+          "Saringan Got",
+          "Selang Shower",
+          "Septic Tank",
+          "Shower Holder",
+          "Tiang Shower",
+          "Toren Air",
+          "Washtafel",
+          "Water Heater"
+        ]
+      },
+      {
+        "nama": "Machinery",
+        "kategori3": [
+          "Mesin Bandsaw",
+          "Mesin Bending",
+          "Mesin Bubut",
+          "Mesin Milling",
+          "Mesin Produksi"
+        ]
+      },
+      {
+        "nama": "Material Bangunan",
+        "kategori3": [
+          "Asbes",
+          "Baja",
+          "Batako",
+          "Batu",
+          "Batu Bata",
+          "Besi",
+          "Beton",
+          "Digital Lock",
+          "Engsel",
+          "Gagang Pintu",
+          "Gembok",
+          "Genteng",
+          "Granit",
+          "Grendel",
+          "Jendela",
+          "Kaca",
+          "Kawat",
+          "Kayu",
+          "Keramik Lantai",
+          "Kusen Pintu",
+          "Lantai Kayu",
+          "Paku",
+          "Pasir",
+          "Semen",
+          "Soda Api",
+          "Tanah",
+          "Triplek"
+        ]
+      },
+      {
+        "nama": "Motors &amp; Power Transmission",
+        "kategori3": [
+          "Dinamo &amp; Motor",
+          "Industrial Fan",
+          "Motor Starter",
+          "Transmission Belt"
+        ]
+      },
+      {
+        "nama": "Otomasi Industrial",
+        "kategori3": [
+          "Capacitor",
+          "Circuit Breaker",
+          "Contactor",
+          "Digital Counter",
+          "Encoder",
+          "Gas Sensor",
+          "Human Machine Interface",
+          "Indikator Temperatur",
+          "Industrial Plug",
+          "Industrial Socket",
+          "Level Sensor",
+          "Limit Switch",
+          "PID controller",
+          "PLC",
+          "Photoelectric Sensor",
+          "Pilot Light",
+          "Push Button",
+          "Relay",
+          "Remote IO",
+          "SMPS",
+          "Sensor Proximity",
+          "Signal Beacon",
+          "Signal Towers"
+        ]
+      },
+      {
+        "nama": "Perangkat Keamanan",
+        "kategori3": [
+          "Access Control Door",
+          "Alarm",
+          "Metal Detector",
+          "Motion Detector",
+          "Smoke Detector",
+          "Spare Part"
+        ]
+      },
+      {
+        "nama": "Perlengkapan Las",
+        "kategori3": [
+          "Generator Las",
+          "Kawat Las",
+          "Mesin Las",
+          "Pasta Solder",
+          "Solder",
+          "Soldering Kit",
+          "Timah Solder"
+        ]
+      },
+      {
+        "nama": "Perlengkapan Listrik",
+        "kategori3": [
+          "Adaptor",
+          "Anti Petir",
+          "Bel",
+          "Insulator",
+          "Isolasi Listrik",
+          "Kabel Roll",
+          "Komponen Listrik",
+          "MCB",
+          "Pelindung Kabel Spiral",
+          "Pengaman Stop Kontak",
+          "Penghemat Listrik",
+          "Power Supply",
+          "Saklar",
+          "Steker",
+          "Stop Kontak",
+          "Stun Gun"
+        ]
+      },
+      {
+        "nama": "Pneumatic",
+        "kategori3": [
+          "Actuator Pneumatic",
+          "Fitting Pneumatic",
+          "Kompresor Udara",
+          "Pengatur Kecepatan",
+          "Pompa Angin",
+          "Regulator Pneumatic",
+          "Silinder Pneumatic",
+          "Spray &amp; Air Gun",
+          "Switch Pneumatic",
+          "Vacuum Pneumatic"
+        ]
+      },
+      {
+        "nama": "Power Tools",
+        "kategori3": [
+          "Gergaji Listrik",
+          "Hot Gun",
+          "Mata Bor",
+          "Mata Gerinda",
+          "Mesin Amplas",
+          "Mesin Biscuit Jointer",
+          "Mesin Bobok",
+          "Mesin Bor",
+          "Mesin Gerinda",
+          "Mesin Mixer Cat",
+          "Mesin Multi Oskilasi",
+          "Mesin Pemoles",
+          "Mesin Serut Kayu"
+        ]
+      },
+      {
+        "nama": "Tape &amp; Sealant Perekat",
+        "kategori3": [
+          "Lem Material",
+          "Lem Talang",
+          "Lem Tembak"
+        ]
+      },
+      {
+        "nama": "Tenaga Surya",
+        "kategori3": [
+          "Solar Cables",
+          "Solar Charge Controller",
+          "Solar Inverter",
+          "Solar Panel"
+        ]
+      },
+      {
+        "nama": "Booking Fee Properti",
+        "kategori3": [
+          "Apartemen Booking Fee",
+          "Gedung Booking Fee",
+          "Ruko Booking Fee",
+          "Rumah Booking Fee",
+          "Tanah Booking Fee",
+          "Villa Booking Fee"
+        ]
+      },
+      {
+        "nama": "Full Payment Properti",
+        "kategori3": [
+          "Apartemen Full Payment",
+          "Gedung Full Payment",
+          "Ruko Full Payment",
+          "Rumah Full Payment",
+          "Tanah Full Payment",
+          "Villa Full Payment"
+        ]
+      },
+      {
+        "nama": "Sewa Properti",
+        "kategori3": [
+          "Apartemen Sewa",
+          "Gedung Sewa",
+          "Kos - Kosan",
+          "Ruko Sewa",
+          "Rumah Sewa",
+          "Tanah Sewa",
+          "Villa Sewa"
+        ]
+      }
+    ]
+  },
+  {
+    "kode": "R",
+    "kategori1": "Rumah Tangga",
+    "kategori2": [
+      {
+        "nama": "Dekorasi",
+        "kategori3": [
+          "Cover Kipas Angin",
+          "Cover Kursi",
+          "Hiasan Dinding",
+          "Hiasan Natal",
+          "Jam Dinding",
+          "Jam Meja",
+          "Keset",
+          "Lampu Pohon Natal",
+          "Lilin",
+          "Lilin Aroma Terapi",
+          "Lukisan",
+          "Patung",
+          "Pohon Natal",
+          "Reed Diffuser",
+          "Slinger",
+          "Stiker Kaca",
+          "Tanaman Artifical",
+          "Taplak Meja",
+          "Tempat Lilin",
+          "Vas Bunga",
+          "Wall Sticker"
+        ]
+      },
+      {
+        "nama": "Furniture",
+        "kategori3": [
+          "Bedside Table",
+          "Cermin Badan",
+          "Kasur",
+          "Kursi",
+          "Kursi Bar",
+          "Kursi Goyang",
+          "Kursi Kantor",
+          "Kursi Makan",
+          "Kursi Malas",
+          "Lemari Pakaian",
+          "Meja Bar",
+          "Meja Kantor",
+          "Meja Makan",
+          "Meja Rias",
+          "Meja TV",
+          "Meja Tamu",
+          "Pengaman Furniture",
+          "Rak",
+          "Rangka Tempat Tidur",
+          "Sofa",
+          "Sofa Bed"
+        ]
+      },
+      {
+        "nama": "Kamar Mandi",
+        "kategori3": [
+          "Cermin Kamar Mandi",
+          "Dispenser Odol",
+          "Ember &amp; Baskom",
+          "Gantungan Handuk",
+          "Gayung",
+          "Handuk Mandi",
+          "Keset Anti Slip",
+          "Kimono Mandi",
+          "Rak Toilet",
+          "Shower Curtain",
+          "Tempat Sabun",
+          "Tempat Sikat Gigi",
+          "Toilet Cover",
+          "Toilet Seat Anak",
+          "Tutup Wastafel"
+        ]
+      },
+      {
+        "nama": "Kamar Tidur",
+        "kategori3": [
+          "Bantal Kepala",
+          "Guling",
+          "Jepitan Sprei",
+          "Kelambu",
+          "Mattress Cover",
+          "Sarung Bantal",
+          "Selimut",
+          "Sprei &amp; Bed Cover"
+        ]
+      },
+      {
+        "nama": "Kebersihan",
+        "kategori3": [
+          "Alat Pel",
+          "Asbak",
+          "Ember &amp; Baskom",
+          "High Pressure Cleaner",
+          "Kain Lap",
+          "Kantong Sampah",
+          "Kemoceng",
+          "Lainnya",
+          "Pengki",
+          "Sapu",
+          "Sapu Lidi",
+          "Sarung Tangan Karet",
+          "Selang Air",
+          "Sikat",
+          "Tempat Sampah"
+        ]
+      },
+      {
+        "nama": "Kebutuhan Rumah",
+        "kategori3": [
+          "Baterai",
+          "Baterai Jam",
+          "Humidifier",
+          "Payung",
+          "Pembatas Ruangan",
+          "Penahan Pintu",
+          "Termometer Ruangan"
+        ]
+      },
+      {
+        "nama": "Laundry",
+        "kategori3": [
+          "Alat Pelipat Baju",
+          "Bola Pencuci Baju",
+          "Cover Mesin Cuci",
+          "Gantungan Baju",
+          "Jaring Pakaian Mesin Cuci",
+          "Jemuran Baju",
+          "Jepit Jemuran",
+          "Lainnya",
+          "Laundry Bag",
+          "Meja Setrika",
+          "Papan Cuci Baju",
+          "Roll Pembersih Pakaian"
+        ]
+      },
+      {
+        "nama": "Ruang Tamu &amp; Keluarga",
+        "kategori3": [
+          "Bantal Sofa",
+          "Bean Bag",
+          "Cover Sofa",
+          "Gorden",
+          "Karpet &amp; Tikar",
+          "Sarung Bantal Sofa"
+        ]
+      },
+      {
+        "nama": "Taman",
+        "kategori3": [
+          "Air Sofa",
+          "Ayunan",
+          "Benih Bibit Tanaman",
+          "Garpu Taman",
+          "Hiasan Taman",
+          "Irigasi",
+          "Kursi Pantai",
+          "Media Tanam",
+          "Pemotong Rumput",
+          "Penyiram Tanaman",
+          "Pot Tanaman",
+          "Pupuk",
+          "Sekop Taman"
+        ]
+      },
+      {
+        "nama": "Tempat Penyimpanan",
+        "kategori3": [
+          "Botol",
+          "Brankas",
+          "Keranjang",
+          "Kotak",
+          "Kotak Baterai",
+          "Kotak Jam",
+          "Kotak Karton",
+          "Kotak Surat",
+          "Laci",
+          "Lainnya",
+          "Stand Hanger",
+          "Storage Box Multifungsi",
+          "Tempat Obat",
+          "Tempat Pakaian",
+          "Tempat Perhiasan &amp; Aksesoris",
+          "Tempat Remote",
+          "Tempat Sepatu &amp; Sandal",
+          "Tempat Tas",
+          "Tempat Tissue"
+        ]
+      },
+      {
+        "nama": "Travel",
+        "kategori3": [
+          "Bantal Leher",
+          "Gembok Koper",
+          "Koper",
+          "Luggage Cover",
+          "Luggage Strap",
+          "Luggage Tag",
+          "Passport Cover",
+          "Penutup Mata Tidur",
+          "Travel Bag",
+          "Travel Organizer",
+          "Travel Toiletries Kit",
+          "Universal Travel Adaptor"
+        ]
+      }
+    ]
+  },
+  {
+    "kode": "T",
+    "kategori1": "Tiket, Travel, Voucher",
+    "kategori2": [
+      {
+        "nama": "Dokumen Perjalanan",
+        "kategori3": [
+          "Asuransi Perjalanan",
+          "Jasa Pembuatan Visa"
+        ]
+      },
+      {
+        "nama": "Paket Tur",
+        "kategori3": [
+          "Kapal Pesiar (Cruise)",
+          "Land Tour",
+          "Tur Internasional",
+          "Wisata Indonesia",
+          "Wisata Religi"
+        ]
+      },
+      {
+        "nama": "Sim Card &amp; Wifi Internasional",
+        "kategori3": [
+          "Sim Card Amerika Serikat",
+          "Sim Card Australia &amp; New Zealand",
+          "Sim Card China, Hong Kong, Macau",
+          "Sim Card Eropa",
+          "Sim Card Jepang",
+          "Sim Card Korea",
+          "Sim Card Negara Lainnya",
+          "Sim Card Saudi Arabia",
+          "Sim Card Singapore, Malaysia, Thailand",
+          "Sim Card Taiwan",
+          "Wifi Amerika",
+          "Wifi Asia",
+          "Wifi Australia",
+          "Wifi Eropa"
+        ]
+      },
+      {
+        "nama": "Tiket Atraksi",
+        "kategori3": [
+          "Sewa Kostum",
+          "Tiket Atraksi Domestik",
+          "Tiket Atraksi Internasional"
+        ]
+      },
+      {
+        "nama": "Tiket Transportasi",
+        "kategori3": [
+          "Sewa Bus",
+          "Sewa Mobil",
+          "Tiket Rail Pass"
+        ]
+      },
+      {
+        "nama": "Voucher Fisik",
+        "kategori3": [
+          "Travel Voucher",
+          "Voucher &amp; Gift Card",
+          "Voucher Agen Travel",
+          "Voucher Fotografi",
+          "Voucher Hotel"
+        ]
+      }
+    ]
+  }
+]

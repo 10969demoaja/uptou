@@ -1,0 +1,130 @@
+.top-search {
+  background: var(--background-gray);
+  padding: 40px 0;
+}
+
+.top-search .section-title {
+  text-align: center;
+  margin-bottom: 32px;
+  font-size: 32px;
+}
+
+.search-leaderboard {
+  max-width: 800px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+}
+
+.search-item {
+  background: white;
+  border-radius: 12px;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  border: 2px solid transparent;
+  transition: all 0.2s;
+  cursor: pointer;
+}
+
+.search-item:hover {
+  border-color: var(--primary-color);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(3, 166, 161, 0.1);
+}
+
+.search-item.top-three {
+  background: linear-gradient(135deg, #fff9c4 0%, #fff 100%);
+  border-color: #ffd700;
+}
+
+.rank-badge {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: var(--primary-color);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.search-item.top-three .rank-badge {
+  background: linear-gradient(135deg, #ffd700 0%, #ffed4a 100%);
+}
+
+.rank-number {
+  color: white;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.search-item.top-three .rank-number {
+  color: #333;
+}
+
+.search-info {
+  flex: 1;
+}
+
+.search-keyword {
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin: 0 0 4px 0;
+}
+
+.search-count {
+  font-size: 14px;
+  color: var(--text-secondary);
+}
+
+.medal {
+  font-size: 24px;
+  flex-shrink: 0;
+}
+
+@media (max-width: 768px) {
+  .search-leaderboard {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+  
+  .search-item {
+    padding: 16px;
+  }
+  
+  .search-keyword {
+    font-size: 16px;
+  }
+  
+  .top-search .section-title {
+    font-size: 24px;
+  }
+}
+
+@media (max-width: 480px) {
+  .search-item {
+    padding: 12px;
+    gap: 12px;
+  }
+  
+  .rank-badge {
+    width: 32px;
+    height: 32px;
+  }
+  
+  .rank-number {
+    font-size: 14px;
+  }
+  
+  .search-keyword {
+    font-size: 14px;
+  }
+  
+  .medal {
+    font-size: 20px;
+  }
+} 

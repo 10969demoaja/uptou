@@ -1,0 +1,143 @@
+.under-maintenance {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.maintenance-container {
+  max-width: 500px;
+  width: 100%;
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+  position: relative;
+  overflow: hidden;
+}
+
+.back-btn {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  background: none;
+  border: none;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: #666;
+  cursor: pointer;
+  font-size: 14px;
+  padding: 8px 12px;
+  border-radius: 8px;
+  transition: all 0.2s;
+  z-index: 10;
+}
+
+.back-btn:hover {
+  background: #f8f9fa;
+  color: #333;
+}
+
+.maintenance-content {
+  text-align: center;
+  padding: 60px 40px 40px;
+}
+
+.maintenance-icon {
+  margin-bottom: 24px;
+  color: #6c757d;
+  animation: wobble 2s infinite;
+}
+
+@keyframes wobble {
+  0%, 100% { transform: rotate(0deg); }
+  25% { transform: rotate(-5deg); }
+  75% { transform: rotate(5deg); }
+}
+
+.maintenance-title {
+  font-size: 24px;
+  font-weight: 700;
+  color: #333;
+  margin-bottom: 16px;
+}
+
+.maintenance-message {
+  font-size: 16px;
+  color: #666;
+  line-height: 1.6;
+  margin-bottom: 32px;
+}
+
+.maintenance-details {
+  margin-bottom: 32px;
+}
+
+.detail-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  color: #6c757d;
+  font-size: 14px;
+}
+
+.maintenance-actions {
+  margin-bottom: 24px;
+}
+
+.primary-btn {
+  background: var(--primary-color, #4CAF50);
+  color: white;
+  border: none;
+  padding: 12px 32px;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.primary-btn:hover {
+  background: var(--primary-dark, #45a049);
+  transform: translateY(-1px);
+}
+
+.maintenance-footer {
+  background: #f8f9fa;
+  padding: 20px 40px;
+  border-top: 1px solid #e9ecef;
+}
+
+.maintenance-footer p {
+  color: #6c757d;
+  font-size: 14px;
+  margin: 0;
+  text-align: center;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 480px) {
+  .maintenance-container {
+    margin: 20px;
+    border-radius: 12px;
+  }
+  
+  .maintenance-content {
+    padding: 50px 20px 30px;
+  }
+  
+  .maintenance-title {
+    font-size: 20px;
+  }
+  
+  .maintenance-message {
+    font-size: 14px;
+  }
+  
+  .maintenance-footer {
+    padding: 16px 20px;
+  }
+} 
